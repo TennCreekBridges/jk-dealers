@@ -1,3685 +1,3688 @@
-  {
-    "name": "Oak Tree Outfitters",
-    "address": "4934 George Washington Memorial Hwy,",
-    "address2": "",
-    "city": "Hayes",
-    "state": "VA",
-    "zip": "23072",
-    "country": "United States",
-    "lat": 37.340044,
-    "lng": -76.520224,
-    "phone": "(804) 815-4669",
-    "email": "travis@oaktreeoutfitters.net",
-    "url": "https://oaktreeoutfitters.net",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatwork",
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Downhill Kayaking",
-    "address": "83 County Road 620",
-    "address2": "",
-    "city": "Mentone",
-    "state": "AL",
-    "zip": "35984",
-    "country": "United States",
-    "lat": 34.512203,
-    "lng": -85.622694,
-    "phone": "",
-    "email": "",
-    "url": "https://downhillkayaking.wordpress.com/",
-    "enable_demo": false,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Journey Outdoors - Lexington VA",
-    "address": "172 West Midland Trail",
-    "address2": "",
-    "city": "Lexington",
-    "state": "Virginia",
-    "zip": "24450",
-    "country": "United States",
-    "lat": 37.795996,
-    "lng": -79.456507,
-    "phone": "(540) 461-8816",
-    "email": "bryan@journeyoutlex.com",
-    "url": "https://journeyoutlex.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Yakworks",
-    "address": "4807 Southport-Supply Road",
-    "address2": "Unit 1",
-    "city": "Southport",
-    "state": "North Carolina",
-    "zip": "28461",
-    "country": "United States",
-    "lat": 33.954492,
-    "lng": -78.058747,
-    "phone": "(252) 203-5660",
-    "email": "sales@yak-works.com",
-    "url": "https://yak-works.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Alder Creek",
-    "address": "200 NE Tomahawk Isl Dr",
-    "address2": "",
-    "city": "Portland",
-    "state": "Oregon",
-    "zip": "97217",
-    "country": "United States",
-    "lat": 45.604946,
-    "lng": -122.66482,
-    "phone": "503-285-0464",
-    "email": "dave@aldercreek.com",
-    "url": "https://aldercreek.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatwork",
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Ozark Kayak",
-    "address": "3706 NW Frontage Rd",
-    "address2": "Ste 4",
-    "city": "Bentonville",
-    "state": "AR",
-    "zip": "72712",
-    "country": "United States",
-    "lat": 36.420631,
-    "lng": -94.222256,
-    "phone": "479-866-0900",
-    "email": "ozarkkayaks@gmail.com",
-    "url": "https://ozarkkayak.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatwork",
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Shady Maple RV",
-    "address": "160 Ewell Rd",
-    "address2": "",
-    "city": "East Earl",
-    "state": "PA",
-    "zip": "17519",
-    "country": "United States",
-    "lat": 40.115951,
-    "lng": -76.036529,
-    "phone": "717-351-0087",
-    "email": "sales3@shadymaplerv.com",
-    "url": "http://www.shadymaplerv.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Benson Ski & Sport",
-    "address": "6 Martin St.",
-    "address2": "",
-    "city": "Derry",
-    "state": "NH",
-    "zip": "3038",
-    "country": "United States",
-    "lat": 42.88099,
-    "lng": -71.327523,
-    "phone": "603-432-2532",
-    "email": "brad@bensonskiandsport.com",
-    "url": "http://bensonskiandsport.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Sandy Point Progressive Sports",
-    "address": "3090 S Ridgewood Ave",
-    "address2": "",
-    "city": "South Daytona",
-    "state": "FL",
-    "zip": "32119",
-    "country": "United States",
-    "lat": 29.153947,
-    "lng": -80.99344,
-    "phone": "386-756-7564",
-    "email": "curtis@progressivesports.com",
-    "url": "https://progressivesports.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Pacific Outfitters",
-    "address": "955 N State St",
-    "address2": "",
-    "city": "Ukiah",
-    "state": "CA",
-    "zip": "95501",
-    "country": "United States",
-    "lat": 39.16069,
-    "lng": -123.20879,
-    "phone": "",
-    "email": "elizabeth@pacificoutfitters.com",
-    "url": "https://pacificoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Pacific Outfitters",
-    "address": "1600 5th St",
-    "address2": "",
-    "city": "Eureka",
-    "state": "CA",
-    "zip": "95482",
-    "country": "United States",
-    "lat": 40.803267,
-    "lng": -124.1544,
-    "phone": "",
-    "email": "aaron@pacificoutfitters.com",
-    "url": "https://pacificoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Headwaters Outfitters",
-    "address": "25 Parkway Rd.",
-    "address2": "",
-    "city": "Rosman",
-    "state": "NC",
-    "zip": "28772",
-    "country": "United States",
-    "lat": 35.143534,
-    "lng": -82.839282,
-    "phone": "828-877-3106",
-    "email": "danielle@headwatersoutfitters.com",
-    "url": "http://www.headwatersoutfitters.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Pagaie Quebec",
-    "address": "3180 CH Ste-Foy",
-    "address2": "",
-    "city": "Quebec",
-    "state": "QB",
-    "zip": "G1X 1R4",
-    "country": "Canada",
-    "lat": 46.773887,
-    "lng": -71.31528,
-    "phone": -10078,
-    "email": "patriceboulay@pagaiequebec.com",
-    "url": "https://www.pagaiequebec.ca/",
-    "enable_demo": false,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Happy Hippy Outfitters",
-    "address": "3133 North Ashley Street",
-    "address2": "",
-    "city": "Valdosta",
-    "state": "GA",
-    "zip": "31601",
-    "country": "United States",
-    "lat": 30.874798,
-    "lng": -83.292082,
-    "phone": "(229) 561-6123",
-    "email": "happyhippyoutfitters@gmail.com",
-    "url": "",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatwork",
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Windtoys",
-    "address": "625 Martin Avenue, Suite A",
-    "address2": "",
-    "city": "Rohnert Park",
-    "state": "CA",
-    "zip": "94928",
-    "country": "United States",
-    "lat": 38.355271,
-    "lng": -122.724446,
-    "phone": "707-542-7245",
-    "email": "billy",
-    "url": "",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "London Oaks Outfitters",
-    "address": "607 E. Blanco Rd",
-    "address2": "",
-    "city": "Boerne",
-    "state": "TX",
-    "zip": "78006",
-    "country": "United States",
-    "lat": 29.796037,
-    "lng": -98.727446,
-    "phone": "361-774-7519",
-    "email": "kwlondong@londonoaksoutfitters.com",
-    "url": "http://www.londonoaksoutfitters.com",
-    "enable_demo": false,
-    "categories": [
-      "Coolers"
-    ]
-  },
-  {
-    "name": "Big Bass USA",
-    "address": "6250 Bethlehem Rd",
-    "address2": "",
-    "city": "Preston",
-    "state": "MD",
-    "zip": "21655",
-    "country": "United States",
-    "lat": 38.779268,
-    "lng": -75.880439,
-    "phone": "410-310-9994",
-    "email": "chris@bigbassusa.com",
-    "url": "https://www.bigbassusa.com/default.asp",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Palmetto Pines Outfitters",
-    "address": "4335 US Highway 378 W",
-    "address2": "",
-    "city": "McCormick",
-    "state": "SC",
-    "zip": "29835",
-    "country": "United States",
-    "lat": 33.890232,
-    "lng": -82.320495,
-    "phone": "864-378-7566",
-    "email": "Palmettopinesoutfitters@gmail.com",
-    "url": "https://palmettopinesoutfitters.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Jake's Bait & Tackle",
-    "address": "234 Ezra Ln #3",
-    "address2": "",
-    "city": "Winchester",
-    "state": "VA",
-    "zip": "22603",
-    "country": "United States",
-    "lat": 39.217481,
-    "lng": -78.13052,
-    "phone": "540-723-4621",
-    "email": "info@jakesbaitandtackle.com",
-    "url": "https://jakesbaitandtackle.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Ron Hoover RV and Marine",
-    "address": "6512 US-180",
-    "address2": "",
-    "city": "Breckenridge",
-    "state": "TX",
-    "zip": "76424",
-    "country": "United States",
-    "lat": 32.769568,
-    "lng": -99.013627,
-    "phone": "(254) 328-1992",
-    "email": "dchafin@ronhoover.com",
-    "url": "http://ronhooverrvs.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Half-Moon Outfitters",
-    "address": "605 N. Main St Unit A",
-    "address2": "",
-    "city": "Summerville",
-    "state": "SC",
-    "zip": "29483",
-    "country": "United States",
-    "lat": 33.026754,
-    "lng": -80.169408,
-    "phone": "854-354-9670",
-    "email": "summerville@halfmoonoutfitters.com",
-    "url": "https://www.halfmoonoutfitters.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Half-Moon Outfitters",
-    "address": "119 West Avenue",
-    "address2": "",
-    "city": "Kannapolis",
-    "state": "NC",
-    "zip": "28081",
-    "country": "United States",
-    "lat": 35.497579,
-    "lng": -80.625448,
-    "phone": "704-647-7701",
-    "email": "kannapolis@halfmoonoutfitters.com",
-    "url": "https://www.halfmoonoutfitters.com/",
-    "enable_demo": false,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Outdoor Supply Company",
-    "address": "2427 N Center St",
-    "address2": "",
-    "city": "Hickory",
-    "state": "NC",
-    "zip": "28601-1320",
-    "country": "United States",
-    "lat": 35.763485,
-    "lng": -81.334218,
-    "phone": "(828) 322-2297",
-    "email": "cmogray@outdoorsupplycompany.com",
-    "url": "https://www.outdoorsupplycompany.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Kayak and More",
-    "address": "7910 KY-259",
-    "address2": "",
-    "city": "Bee Spring",
-    "state": "KY",
-    "zip": "42207",
-    "country": "United States",
-    "lat": 37.28802,
-    "lng": -86.279397,
-    "phone": "270-286-7001",
-    "email": "kim@kayaksandmoreonline.com",
-    "url": "http://kayaksandmoreonline.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Big Bass USA",
-    "address": "10279 River Landing Rd",
-    "address2": "",
-    "city": "Denton",
-    "state": "MD",
-    "zip": "21629",
-    "country": "United States",
-    "lat": 38.8897,
-    "lng": -75.838302,
-    "phone": "(410) 310-9994",
-    "email": "chris@bigbassusa.com",
-    "url": "https://www.bigbassusa.com/aboutus.asp",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)"
-    ]
-  },
-  {
-    "name": "Festive Water",
-    "address": "5285 Lake Pointe Center Dr. Suite A",
-    "address2": "",
-    "city": "Cumming",
-    "state": "GA",
-    "zip": "30041",
-    "country": "United States",
-    "lat": 34.249161,
-    "lng": -84.05749,
-    "phone": "404-480-8050",
-    "email": "festivewaterllc@gmail.com",
-    "url": "https://festivewater.com/",
-    "enable_demo": true,
-    "categories": [
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Oregon Watershed",
-    "address": "112 Main Street",
-    "address2": "",
-    "city": "Springfield",
-    "state": "OR",
-    "zip": "97477",
-    "country": "United States",
-    "lat": 44.046377,
-    "lng": -123.0251,
-    "phone": "541-505-8421",
-    "email": "oregonwatershed@gmail.com",
-    "url": "https://www.oregonwatershed.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "First Water",
-    "address": "721 Glider Lane",
-    "address2": "",
-    "city": "Belgrade",
-    "state": "MT",
-    "zip": "59714",
-    "country": "United States",
-    "lat": 45.796457,
-    "lng": -111.182148,
-    "phone": "406-219-7285",
-    "email": "support@firstwaterboats.com",
-    "url": "http://firstwaterboats.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatwork",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "ETX Paddlesport",
-    "address": "3225 S. Southwest Loop 323",
-    "address2": "",
-    "city": "Tyler",
-    "state": "TX",
-    "zip": "75701",
-    "country": "United States",
-    "lat": 32.310582,
-    "lng": -95.341696,
-    "phone": "903-630-3433",
-    "email": "sales@etxpaddlesports.com",
-    "url": "http://etxpaddlesports.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatwork",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "First Water",
-    "address": "721 Glider Lane",
-    "address2": "",
-    "city": "Belgrade",
-    "state": "MT",
-    "zip": "59714",
-    "country": "United States",
-    "lat": 45.796457,
-    "lng": -111.182148,
-    "phone": "406-219-7285",
-    "email": "support@firstwaterboats.com",
-    "url": "http://www.firstwaterboats.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Blue Ridge Paddling",
-    "address": "1001 S Industrial Dr.",
-    "address2": "",
-    "city": "Erwin",
-    "state": "TN",
-    "zip": "37650",
-    "country": "United States",
-    "lat": 36.125542,
-    "lng": -82.442481,
-    "phone": "423-388-6002",
-    "email": "mschmidt@blueridgepaddling.com",
-    "url": "http://www.blueridgepaddling.com/",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "River Rock Outfitter",
-    "address": "215 William St",
-    "address2": "",
-    "city": "Fredericksburg",
-    "state": "VA",
-    "zip": "22401-5829",
-    "country": "United States",
-    "lat": 38.303622,
-    "lng": -77.460401,
-    "phone": "540-372-8708",
-    "email": "info@riverrockoutfitter.com",
-    "url": "https://riverrockoutfitter.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)"
-    ]
-  },
-  {
-    "name": "Moss Mountain Outfitters",
-    "address": "326 Main St #102",
-    "address2": "",
-    "city": "Danville",
-    "state": "VA",
-    "zip": "24541",
-    "country": "United States",
-    "lat": 36.58821,
-    "lng": -79.391315,
-    "phone": "434-835-2641",
-    "email": "landon@headupeyesforward.com",
-    "url": "http://www.mossmountainoutfitters.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Chattooga Whitewater",
-    "address": "14239 Long Creek Hwy",
-    "address2": "",
-    "city": "Long Creek",
-    "state": "SC",
-    "zip": "29658",
-    "country": "United States",
-    "lat": 34.798179,
-    "lng": -83.271611,
-    "phone": "864-647-9083",
-    "email": "lifeinlongcreek@gmail.com",
-    "url": "https://www.lifeinlongcreek.com/chattooga-whitewater-shop/",
-    "enable_demo": false,
-    "categories": [
-      "Rentals",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Cole's Army Surplus",
-    "address": "118 N Chadbourne St",
-    "address2": "",
-    "city": "Tyler",
-    "state": "TX",
-    "zip": "76903",
-    "country": "United States",
-    "lat": 31.466786,
-    "lng": -100.4382,
-    "phone": "325-653-1903",
-    "email": "colesarmysurplus.business@gmail.com",
-    "url": "https://www.colesarmysurplus.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)"
-    ]
-  },
-  {
-    "name": "Tackle Shack",
-    "address": "9683 Route 287",
-    "address2": "",
-    "city": "Wellsboro",
-    "state": "PA",
-    "zip": "16901",
-    "country": "United States",
-    "lat": 41.794689,
-    "lng": -77.304239,
-    "phone": "(570) 724-5138",
-    "email": "tackleshack@frontiernet.net",
-    "url": "https://www.shoptackleshack.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Wilderness Voyageurs",
-    "address": "103 Garrett Street",
-    "address2": "",
-    "city": "Ohiopyle",
-    "state": "PA",
-    "zip": "15470",
-    "country": "United States",
-    "lat": 39.871493,
-    "lng": -79.492315,
-    "phone": "800-272-4141",
-    "email": "rafting@wilderness-voyageurs.com",
-    "url": "https://wilderness-voyageurs.com/",
-    "enable_demo": false,
-    "categories": [
-      "Rentals",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Marietta Adventure Co.",
-    "address": "219 2nd St",
-    "address2": "",
-    "city": "Marietta",
-    "state": "OH",
-    "zip": "45750",
-    "country": "United States",
-    "lat": 39.414195,
-    "lng": -81.453862,
-    "phone": "(740) 538-0801",
-    "email": "mariettaadventurecompany@gmail.com",
-    "url": "https://www.mariettaadventurecompany.com/?fbclid=IwAR0U41v-e_v3D8KqeCHoPIi4wQ09w27XjFFZWJ_ZqEyZByl4WGet5s7Ov-s",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Utah Whitewater Gear",
-    "address": "7307 State St",
-    "address2": "",
-    "city": "Midvale",
-    "state": "UT",
-    "zip": "84047",
-    "country": "United States",
-    "lat": 40.61863,
-    "lng": -111.890138,
-    "phone": "",
-    "email": "",
-    "url": "",
-    "enable_demo": false,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "The River Store",
-    "address": "1032 Lotus Rd",
-    "address2": "",
-    "city": "Lotus",
-    "state": "CA",
-    "zip": "95651",
-    "country": "United States",
-    "lat": 38.798807,
-    "lng": -120.910958,
-    "phone": "(530) 626-3435",
-    "email": "info@theriverstore.com",
-    "url": "https://theriverstore.com",
-    "enable_demo": false,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Highwater Hobbies",
-    "address": "4489 Hudson Rd",
-    "address2": "",
-    "city": "Albright",
-    "state": "WV",
-    "zip": "26519",
-    "country": "United States",
-    "lat": 39.584724,
-    "lng": -79.640101,
-    "phone": "404 274 5216",
-    "email": "masterdon416@gmail.com",
-    "url": "http://www.highwaterhobbies.com/",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "French Broad Outfitters",
-    "address": "704 Riverside Dr",
-    "address2": "",
-    "city": "Asheville",
-    "state": "NC",
-    "zip": "28801",
-    "country": "United States",
-    "lat": 35.608492,
-    "lng": -82.577533,
-    "phone": "(828) 505-7371",
-    "email": "frenchbroadoutfitters@gmail.com",
-    "url": "https://www.frenchbroadoutfitters.com/",
-    "enable_demo": false,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Pirates Cove",
-    "address": "136 PA-507",
-    "address2": "",
-    "city": "Hawley",
-    "state": "PA",
-    "zip": "18428",
-    "country": "United States",
-    "lat": 41.438513,
-    "lng": -75.174329,
-    "phone": "570-226-2220",
-    "email": "skip@pcmpa.com",
-    "url": "https://www.pcmpa.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Watch Hill Outfitters",
-    "address": "157 Main St, Westerly",
-    "address2": "",
-    "city": "Westerly",
-    "state": "RI",
-    "zip": "2891",
-    "country": "United States",
-    "lat": 41.372164,
-    "lng": -71.831121,
-    "phone": "401-596-7217",
-    "email": "mike@watchhilloutfitters.com",
-    "url": "https://www.watchhilloutfitters.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "JD Outdoors",
-    "address": "2437 SW 67th Ave",
-    "address2": "",
-    "city": "Maimi",
-    "state": "FL",
-    "zip": "33155",
-    "country": "United States",
-    "lat": 25.747578,
-    "lng": -80.303302,
-    "phone": "",
-    "email": "jesus@estradaroofing.biz",
-    "url": "",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)"
-    ]
-  },
-  {
-    "name": "KayakHub",
-    "address": "13807 W Hillsborough Ave",
-    "address2": "",
-    "city": "Tampa",
-    "state": "FL",
-    "zip": "33635",
-    "country": "United States",
-    "lat": 28.03253,
-    "lng": -82.644002,
-    "phone": "(813)368-7637",
-    "email": "info@thekayakhub.com",
-    "url": "https://thekayakhub.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "No Bad Days Kayak",
-    "address": "1900 East Howard Lane Bldg F Suite 1",
-    "address2": "",
-    "city": "Pflugerville",
-    "state": "TX",
-    "zip": "78660",
-    "country": "United States",
-    "lat": 30.402498,
-    "lng": -97.633749,
-    "phone": "512-229-0560",
-    "email": "support@nobaddayskayak.com",
-    "url": "https://nobaddayskayak.com",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Flugers Outdoors",
-    "address": "1232 W. Marshall Ave",
-    "address2": "",
-    "city": "Longview",
-    "state": "TX",
-    "zip": "75604",
-    "country": "United States",
-    "lat": 32.503977,
-    "lng": -94.765624,
-    "phone": "903-470-7220",
-    "email": "flugerslongview@gmail.com",
-    "url": "https://flugerslongview.com",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Wander North Georgia dba North Georgia Social Club",
-    "address": "87 N Main St",
-    "address2": "",
-    "city": "Clayton",
-    "state": "GA",
-    "zip": "30525-4263",
-    "country": "United States",
-    "lat": 34.879562,
-    "lng": -83.40092,
-    "phone": "770-750-4470",
-    "email": "info@wandernorthgeorgia.com",
-    "url": "https://wandernorthgeorgia.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Venice Outdoor Sports",
-    "address": "1562 S Tamiami Trail",
-    "address2": "",
-    "city": "South Venice",
-    "state": "FL",
-    "zip": "34239",
-    "country": "United States",
-    "lat": 27.07585,
-    "lng": -82.427326,
-    "phone": 9418410719,
-    "email": "info@veniceoutdoorssports.com",
-    "url": "https://www.veniceoutdoorsports.com",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Country Smokehouse",
-    "address": "3294 VanDyke Rd.",
-    "address2": "",
-    "city": "Almont",
-    "state": "MI",
-    "zip": "48003",
-    "country": "United States",
-    "lat": 42.969681,
-    "lng": -83.058329,
-    "phone": "810-798-3064",
-    "email": "smokin@countrysmokehouseinc.com",
-    "url": "http://countrysmokehouse.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Lake Erie Adventures",
-    "address": "507 River Rd.",
-    "address2": "",
-    "city": "Huron",
-    "state": "OH",
-    "zip": "44839",
-    "country": "United States",
-    "lat": 41.389146,
-    "lng": -82.550726,
-    "phone": "419-366-3830",
-    "email": "hello@lakeerieadventure.com",
-    "url": "http://lakeerieadventure.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Paradise Outfitters",
-    "address": "14781 N FAIRVIEW DR UNIT I",
-    "address2": "",
-    "city": "Smithville",
-    "state": "MO",
-    "zip": "64089",
-    "country": "United States",
-    "lat": 39.427691,
-    "lng": -94.514986,
-    "phone": "816-592-3837",
-    "email": "info@paradiseoutfittersmo.com",
-    "url": "http://paradiseoutfittersmo.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "ECO Fishing Shop",
-    "address": "1479 Business Rte. 5",
-    "address2": "",
-    "city": "Camdenton",
-    "state": "MO",
-    "zip": "65020",
-    "country": "United States",
-    "lat": 37.9952,
-    "lng": -92.724683,
-    "phone": "573-873-2772",
-    "email": "sales@ecofishingshop.com",
-    "url": "http://ecofishingshop.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Trusty Watersports LLC - DBA Trusty Sail and Paddle",
-    "address": "5300 Hwy 70 W",
-    "address2": "",
-    "city": "Morehead City",
-    "state": "NC",
-    "zip": "28557",
-    "country": "United States",
-    "lat": 34.730072,
-    "lng": -76.848605,
-    "phone": "252-499-9911",
-    "email": "trustywatersports@gmail.com",
-    "url": "https://www.trustysailandpaddle.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "eNRG",
-    "address": "1701 Clackamette Dr",
-    "address2": "",
-    "city": "Oregon City",
-    "state": "OR",
-    "zip": "97045",
-    "country": "United States",
-    "lat": 45.364142,
-    "lng": -122.602184,
-    "phone": "503-772-1122",
-    "email": "samdrevo@gmail.com",
-    "url": "https://enrgkayaking.com/",
-    "enable_demo": true,
-    "categories": [
-      "Rentals",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Morgan Marine",
-    "address": "2 NY-54",
-    "address2": "",
-    "city": "Pen Yan",
-    "state": "NY",
-    "zip": "14527",
-    "country": "United States",
-    "lat": 42.648718,
-    "lng": -77.061892,
-    "phone": "315-536-8166",
-    "email": "ryan@morganmarine.net",
-    "url": "https://www.morganmarine.net/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Adirondack All Seasons Outfitters",
-    "address": "3196 NY-28",
-    "address2": "",
-    "city": "North Creek",
-    "state": "NY",
-    "zip": "12853",
-    "country": "United States",
-    "lat": 43.68223,
-    "lng": -73.972466,
-    "phone": "518-251-2555",
-    "email": "",
-    "url": "http://www.adirondackallseasons.com/",
-    "enable_demo": false,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "US 27 Motorsports and Trailers",
-    "address": "5301 N, 5301 US-127",
-    "address2": "",
-    "city": "St Johns",
-    "state": "Michigan",
-    "zip": "48879",
-    "country": "United States",
-    "lat": 43.06353,
-    "lng": -84.564618,
-    "phone": "989-224-8874",
-    "email": "shane@us27motorsports.com",
-    "url": "www.us27motorsports.com",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Kennels",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Fogh Marine",
-    "address": "901 Oxford St.",
-    "address2": "",
-    "city": "Etobicoke",
-    "state": "ON",
-    "zip": "M8Z 5T1",
-    "country": "Canada",
-    "lat": 43.619186,
-    "lng": -79.514894,
-    "phone": "416-251-0384",
-    "email": "info@foghmarine.com",
-    "url": "https://foghmarine.com",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)"
-    ]
-  },
-  {
-    "name": "Falls Outdoor Company",
-    "address": "1727 Front St",
-    "address2": "",
-    "city": "Cuyahogo Falls",
-    "state": "OH",
-    "zip": "44221",
-    "country": "United States",
-    "lat": 41.132038,
-    "lng": -81.483799,
-    "phone": "330-537-9060",
-    "email": "fallsoutdoorcompany@gmail.com",
-    "url": "https://www.fallsoutdoorcompany.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Rentals",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Maumee River Outfitters",
-    "address": "24287 Front Street",
-    "address2": "",
-    "city": "Grand Rapids",
-    "state": "OH",
-    "zip": "43522",
-    "country": "United States",
-    "lat": 41.411784,
-    "lng": -83.86946,
-    "phone": "419-830-3077",
-    "email": "maumeekayak@gmail.com",
-    "url": "https://maumeetackle.net",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "GEAR Elkader",
-    "address": "201 N Main Street",
-    "address2": "",
-    "city": "Elkader",
-    "state": "IA",
-    "zip": "52043",
-    "country": "United States",
-    "lat": 42.855229,
-    "lng": -91.405542,
-    "phone": "563.245.2521",
-    "email": "",
-    "url": "www.gearelkader.com",
-    "enable_demo": false,
-    "categories": [
-      "Coolers",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Canoe & Kayak Rental & Sales",
-    "address": "2828 NY-28",
-    "address2": "",
-    "city": "Portlandville",
-    "state": "New York",
-    "zip": "13834",
-    "country": "United States",
-    "lat": 42.528527,
-    "lng": -74.968972,
-    "phone": "(607) 286-7349",
-    "email": "info@canoeandkayakrentals.com",
-    "url": "https://www.canoeandkayakrentals.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatwork",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Loan Star Pawn",
-    "address": "419 E Sam Rayburn Dr",
-    "address2": "",
-    "city": "Bonham",
-    "state": "Texas",
-    "zip": "75418",
-    "country": "United States",
-    "lat": 33.577374,
-    "lng": -96.175028,
-    "phone": "903-583-3442",
-    "email": "",
-    "url": "",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Northern Lights Trading Company",
-    "address": "8358 Huffline Lane Unit C",
-    "address2": "",
-    "city": "Bozeman",
-    "state": "Montana",
-    "zip": "59718",
-    "country": "United States",
-    "lat": 45.66962,
-    "lng": -111.151265,
-    "phone": "406-586-6029",
-    "email": "riverslakesoceans@gmail.com",
-    "url": "http://www.northernlightstrading.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Bobâ€™s Food City",
-    "address": "742 Highway 270 E",
-    "address2": "",
-    "city": "Mount Ida",
-    "state": "AR",
-    "zip": "71957",
-    "country": "United States",
-    "lat": 34.549877,
-    "lng": -93.624033,
-    "phone": "870-867-3551",
-    "email": "",
-    "url": "www.bobsfoodcity.com",
-    "enable_demo": false,
-    "categories": [
-      "Coolers",
-      "Kennels"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "402 South Stratford Rd.",
-    "address2": "",
-    "city": "Winston Salem",
-    "state": "NC",
-    "zip": "27103",
-    "country": "United States",
-    "lat": 36.091922,
-    "lng": -80.284501,
-    "phone": "336-727-0906",
-    "email": "gopc601@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "3501 Oleander Dr. (US 76)",
-    "address2": "",
-    "city": "Wilmington",
-    "state": "NC",
-    "zip": "28403",
-    "country": "United States",
-    "lat": 34.217568,
-    "lng": -77.904253,
-    "phone": "910-343-1648",
-    "email": "gopc901@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "1800 East Franklin St",
-    "address2": "",
-    "city": "Chapel Hill",
-    "state": "NC",
-    "zip": "27514",
-    "country": "United States",
-    "lat": 35.936933,
-    "lng": -79.025085,
-    "phone": "919-933-6148",
-    "email": "gopc501@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "1556 Laskin Rd",
-    "address2": "",
-    "city": "Virginia Beach",
-    "state": "VA",
-    "zip": "23451",
-    "country": "United States",
-    "lat": 36.853739,
-    "lng": -76.015783,
-    "phone": "757-962-6618",
-    "email": "gopc701@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "2017 Cameron St.",
-    "address2": "",
-    "city": "Raleigh",
-    "state": "NC",
-    "zip": "27605",
-    "country": "United States",
-    "lat": 35.790529,
-    "lng": -78.659975,
-    "phone": "919-833-1741",
-    "email": "gopc401@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "530-D SE Greenville Blvd.",
-    "address2": "",
-    "city": "Greenville",
-    "state": "NC",
-    "zip": "27858",
-    "country": "United States",
-    "lat": 35.582209,
-    "lng": -77.371651,
-    "phone": "252-321-1308",
-    "email": "gopc101@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "1410 Westover Terrace",
-    "address2": "",
-    "city": "Greensboro",
-    "state": "NC",
-    "zip": "27408",
-    "country": "United States",
-    "lat": 36.091211,
-    "lng": -79.813982,
-    "phone": "336-851-1331",
-    "email": "gopc801@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "1125 Emmet St N",
-    "address2": "",
-    "city": "Charlottesville",
-    "state": "VA",
-    "zip": "22903",
-    "country": "United States",
-    "lat": 38.052568,
-    "lng": -78.501718,
-    "phone": "434-995-5669",
-    "email": "gopc201@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Great Outdoor Provision Co.",
-    "address": "4275 Park Rd.",
-    "address2": "",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28209",
-    "country": "United States",
-    "lat": 35.173307,
-    "lng": -80.849951,
-    "phone": "704-523-1089",
-    "email": "gopc301@greatoutdoorprovision.com",
-    "url": "https://greatoutdoorprovision.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Gull Lake Marine",
-    "address": "12485 East D Avenue",
-    "address2": "",
-    "city": "Richland",
-    "state": "Michigan",
-    "zip": "49083",
-    "country": "United States",
-    "lat": 42.37092,
-    "lng": -85.387323,
-    "phone": "269-200-2103",
-    "email": "lukes@gulllakemarine.com",
-    "url": "gulllakemarine.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "J4 Trailer",
-    "address": "5332 US 290",
-    "address2": "",
-    "city": "Fredericksburg",
-    "state": "Texas",
-    "zip": "78624",
-    "country": "United States",
-    "lat": 30.225737,
-    "lng": -98.809232,
-    "phone": "830-997-9969",
-    "email": "josh@j4fbg.com",
-    "url": "http://j4fbg.com",
-    "enable_demo": false,
-    "categories": [
-      "Coolers",
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "London Oaks Outfitters",
-    "address": "215 West Bandera Road Ste. 114-261",
-    "address2": "",
-    "city": "Boerne",
-    "state": "Texas",
-    "zip": "78006",
-    "country": "United States",
-    "lat": 29.779381,
-    "lng": -98.732243,
-    "phone": "",
-    "email": "",
-    "url": "https://www.londonoaksoutfitters.com",
-    "enable_demo": false,
-    "categories": [
-      "Coolers"
-    ]
-  },
-  {
-    "name": "Woods & Waters",
-    "address": "255 Broadway",
-    "address2": "",
-    "city": "Saranac Lake",
-    "state": "New York",
-    "zip": "12983",
-    "country": "United States",
-    "lat": 44.3334,
-    "lng": -74.139153,
-    "phone": "(518) 891-1110",
-    "email": "chrisg@adkwoodsandwaters.com",
-    "url": "",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Marsh & Bayou",
-    "address": "2600 Florida Street",
-    "address2": "",
-    "city": "Mandeville",
-    "state": "LA",
-    "zip": "70448",
-    "country": "United States",
-    "lat": 30.368166,
-    "lng": -90.072012,
-    "phone": "985-869-7335",
-    "email": "btiblier@hotmail.com",
-    "url": "https://marshandbayououtfitters.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)"
-    ]
-  },
-  {
-    "name": "Sports Haus",
-    "address": "1126 N. High St.",
-    "address2": "",
-    "city": "Bridgton",
-    "state": "Maine",
-    "zip": "4009",
-    "country": "United States",
-    "lat": 44.065113,
-    "lng": -70.816357,
-    "phone": "207-647-3000",
-    "email": "clint@sportshausski.com",
-    "url": "https://www.sportshausski.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Kentucky Lake Outdoors",
-    "address": "1071 Highway 68 East",
-    "address2": "",
-    "city": "Benton",
-    "state": "Kentucky",
-    "zip": "42025",
-    "country": "United States",
-    "lat": 36.9141,
-    "lng": -88.330236,
-    "phone": "270-395-0420",
-    "email": "",
-    "url": "http://www.kylakeoutdoors.com",
-    "enable_demo": false,
-    "categories": [
-      "Coolers",
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Yadkin River Kayaks",
-    "address": "106 E Main St.",
-    "address2": "",
-    "city": "Boonville",
-    "state": "North Carolina",
-    "zip": "27011",
-    "country": "United States",
-    "lat": 36.232379,
-    "lng": -80.707816,
-    "phone": "336-469-2188",
-    "email": "ccgolfcars@yahoo.com",
-    "url": "yadkinriverkayaks.com",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Trailhead Paddle Shack",
-    "address": "4-2148 Carling Avenue",
-    "address2": "",
-    "city": "Ottawa",
-    "state": "Ontario",
-    "zip": "K2A 1H1",
-    "country": "Canada",
-    "lat": 45.36939,
-    "lng": -75.768911,
-    "phone": "1+ 613-722-4229",
-    "email": "shop@trailheadpaddleshack.ca",
-    "url": "https://www.trailheadpaddleshack.ca/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Calleva",
-    "address": "19936 Fisher Ave",
-    "address2": "",
-    "city": "Poolesville",
-    "state": "Maryland",
-    "zip": "20837",
-    "country": "United States",
-    "lat": 39.145754,
-    "lng": -77.416339,
-    "phone": "301-216-1248",
-    "email": "gearguru@calleva.org",
-    "url": "https://potomacriversupply.com/",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Canoe Water Adventuring",
-    "address": "290 Quaker Lane Coldstream R R 2",
-    "address2": "",
-    "city": "Ilderton",
-    "state": "Ontario",
-    "zip": "N0M 2A0",
-    "country": "Canada",
-    "lat": 43.019385,
-    "lng": -81.501852,
-    "phone": "519-666-1477",
-    "email": "canoewater@execulink.com",
-    "url": "http://canoewater.ca/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Kayak City",
-    "address": "7812 Auburn Blvd",
-    "address2": "",
-    "city": "Citrus Heights",
-    "state": "California",
-    "zip": "95610",
-    "country": "United States",
-    "lat": 38.708138,
-    "lng": -121.289757,
-    "phone": "(916) 565-1400",
-    "email": "adv1800@gmail.com",
-    "url": "https://kayakcity.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Twin City Outdoors",
-    "address": "1900 Cypress St",
-    "address2": "",
-    "city": "West Monroe",
-    "state": "Louisiana",
-    "zip": "71291",
-    "country": "USA",
-    "lat": 32.51561,
-    "lng": -92.137774,
-    "phone": "318-325-0854",
-    "email": "",
-    "url": "http://www.twincityoutdoor.com/",
-    "enable_demo": false,
-    "categories": [
-      "Coolers",
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Wasatch Touring",
-    "address": "702 East 100 South",
-    "address2": "",
-    "city": "Salt Lake City",
-    "state": "Utah",
-    "zip": "84102",
-    "country": "USA",
-    "lat": 40.766879,
-    "lng": -111.870692,
-    "phone": "801-359-9361",
-    "email": "dylan@wasatchtouring.com",
-    "url": "http://www.wasatchtouring.com/",
-    "enable_demo": false,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Western Canoeing & Kayaking Inc",
-    "address": "1717 Salton Rd",
-    "address2": "",
-    "city": "Abbotsford",
-    "state": "British Columbia",
-    "zip": "V2S 7P2",
-    "country": "Canada",
-    "lat": 49.033349,
-    "lng": -122.289346,
-    "phone": "604-853-9320",
-    "email": "ryan@westerncanoekayak.com",
-    "url": "http://www.westerncanoekayak.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Whitewater Express",
-    "address": "1000 Bay Avenue",
-    "address2": "",
-    "city": "Columbus",
-    "state": "Georgia",
-    "zip": "31901",
-    "country": "USA",
-    "lat": 32.464999,
-    "lng": -84.995608,
-    "phone": "404.325.5295",
-    "email": "daniell@whitewater.express",
-    "url": "https://www.whitewaterexpress.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Whitewater Warehouse, inc.",
-    "address": "104 Valley Street",
-    "address2": "",
-    "city": "Dayton",
-    "state": "Ohio",
-    "zip": "45404",
-    "country": "USA",
-    "lat": 39.769892,
-    "lng": -84.175597,
-    "phone": "(937) 222-7020",
-    "email": "wwwh@erinet.com",
-    "url": "http://www.kayakdayton.com",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Zoar Outdoor",
-    "address": "7 Main Street",
-    "address2": "",
-    "city": "Charlemont",
-    "state": "Massachusetts",
-    "zip": "1339",
-    "country": "USA",
-    "lat": 42.627768,
-    "lng": -72.88374,
-    "phone": "413-339-4010 +1004",
-    "email": "shop@zoaroutdoor.com",
-    "url": "http://www.zoaroutdoor.com/store",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "The Great Outdoors",
-    "address": "10 South Selig Avenue",
-    "address2": "",
-    "city": "Montrose",
-    "state": "Colorado",
-    "zip": "81401",
-    "country": "USA",
-    "lat": 38.477651,
-    "lng": -107.878723,
-    "phone": "970-249-4226",
-    "email": "",
-    "url": "",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "The Woodsman",
-    "address": "5609 Rogers Ave, Suite D",
-    "address2": "",
-    "city": "Fort Smith",
-    "state": "Arkansas",
-    "zip": "72903",
-    "country": "USA",
-    "lat": 35.366775,
-    "lng": -94.37512,
-    "phone": "479-452-3559",
-    "email": "woodsmancompany@gmail.com",
-    "url": "https://www.thewoodsmancompany.com/product-category/kayaking/kayaking-kayaks/?filtering=1&filter_product_brand=323",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Tie Specialties LLC",
-    "address": "2822 W Interstate 20",
-    "address2": "",
-    "city": "Odessa",
-    "state": "Texas",
-    "zip": "79763",
-    "country": "USA",
-    "lat": 31.816049,
-    "lng": -102.398311,
-    "phone": "(432) 332-2333",
-    "email": "",
-    "url": "http://www.tiespecialties.com/",
-    "enable_demo": false,
-    "categories": [
-      "Coolers"
-    ]
-  },
-  {
-    "name": "Tulsa Kayak",
-    "address": "411 South 1st Street",
-    "address2": "",
-    "city": "Jenks",
-    "state": "Oklahoma",
-    "zip": "74037",
-    "country": "USA",
-    "lat": 36.019402,
-    "lng": -95.968429,
-    "phone": "918-298-4577",
-    "email": "dave@okckayak.com",
-    "url": "http://www.okckayak.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Tumalo Creek Kayak & Canoe",
-    "address": "805 SW Industrial Way, Suite 6",
-    "address2": "",
-    "city": "Bend",
-    "state": "Oregon",
-    "zip": "97702",
-    "country": "USA",
-    "lat": 44.050032,
-    "lng": -121.318876,
-    "phone": "541-317-9407",
-    "email": "kelli@tumalocreek.com",
-    "url": "http://www.tumalocreek.com/",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "SWISH INC.",
-    "address": "970 CR 351",
-    "address2": "",
-    "city": "Stephenville",
-    "state": "Texas",
-    "zip": "76401",
-    "country": "USA",
-    "lat": 32.190844,
-    "lng": -98.266083,
-    "phone": "254-965-4505",
-    "email": "",
-    "url": "http://www.irrigationdistributors.com/swish.html",
-    "enable_demo": false,
-    "categories": [
-      "Coolers"
-    ]
-  },
-  {
-    "name": "Terrapin Outdoor Center",
-    "address": "4114 County Rd. 175",
-    "address2": "",
-    "city": "Piedmont",
-    "state": "Alabama",
-    "zip": "36272",
-    "country": "USA",
-    "lat": 33.980591,
-    "lng": -85.606618,
-    "phone": "256-447-6666",
-    "email": "terrapinoutdoorcenter@yahoo.com",
-    "url": "http://www.canoeshop.net/",
-    "enable_demo": true,
-    "categories": [
-      "Coolers",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "TG Canoes & Kayaks",
-    "address": "402 Pecan Park Dr.",
-    "address2": "",
-    "city": "San Marcos",
-    "state": "Texas",
-    "zip": "78666",
-    "country": "USA",
-    "lat": 29.860114,
-    "lng": -97.890062,
-    "phone": "512-353-3946",
-    "email": "tgcanoe@gmail.com",
-    "url": "http://www.tgcanoe.com",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "The Canoe House",
-    "address": "608 Broad Street",
-    "address2": "",
-    "city": "Rome",
-    "state": "Georgia",
-    "zip": "30161",
-    "country": "USA",
-    "lat": 34.256314,
-    "lng": -85.167824,
-    "phone": "706-237-7720",
-    "email": "thecanoehouse@gmail.com",
-    "url": "",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Roy's Bait and Tackle",
-    "address": "7613 South Padre Island Drive",
-    "address2": "",
-    "city": "Corpus Christi",
-    "state": "Texas",
-    "zip": "78412",
-    "country": "USA",
-    "lat": 27.689118,
-    "lng": -97.333477,
-    "phone": "361-992-2960",
-    "email": "rg@roysbait-tackle.com",
-    "url": "http://www.roysbait-tackle.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Rutabaga Paddlesports LLC",
-    "address": "2620 Rimrock Rd",
-    "address2": "",
-    "city": "Madison",
-    "state": "Wisconsin",
-    "zip": "53713",
-    "country": "United States",
-    "lat": 43.034292,
-    "lng": -89.381138,
-    "phone": "608-223-9300",
-    "email": "",
-    "url": "http://www.rutabaga.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Shades",
-    "address": "4830 Wharf Pkwy E",
-    "address2": "",
-    "city": "Orange Beach",
-    "state": "Alabama",
-    "zip": "36561",
-    "country": "USA",
-    "lat": 30.295031,
-    "lng": -87.628358,
-    "phone": "251.923.3131",
-    "email": "",
-    "url": "",
-    "enable_demo": false,
-    "categories": [
-      "Kennels"
-    ]
-  },
-  {
-    "name": "Ship to Shore Co",
-    "address": "4313 Lake Street",
-    "address2": "",
-    "city": "Lake Charles",
-    "state": "Louisiana",
-    "zip": "70605",
-    "country": "USA",
-    "lat": 30.179933,
-    "lng": -93.231929,
-    "phone": "337-474-0730",
-    "email": "sts@shiptpshore.com",
-    "url": "https://www.shiptoshoreco.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Sierra South Mountain Sports",
-    "address": "11300 Kernville Road",
-    "address2": "",
-    "city": "Kernville",
-    "state": "California",
-    "zip": "93238",
-    "country": "USA",
-    "lat": 35.7551,
-    "lng": -118.421011,
-    "phone": "760-376-3745",
-    "email": "moreinfo@sierrasouth.com",
-    "url": "http://www.sierrasouth.com",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Sportsman's Outfitter & Marine",
-    "address": "19700 S Peculiar Dr",
-    "address2": "",
-    "city": "Belton",
-    "state": "Missouri",
-    "zip": "64012",
-    "country": "USA",
-    "lat": 38.766787,
-    "lng": -94.491164,
-    "phone": "816.524.2277",
-    "email": "",
-    "url": "https://www.sportsmansoutfitter.com",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Phoenix Fishing Supply",
-    "address": "4810 N. 16th St",
-    "address2": "",
-    "city": "Phoenix",
-    "state": "Arizona",
-    "zip": "85016",
-    "country": "United States",
-    "lat": 33.507874,
-    "lng": -112.047986,
-    "phone": "602.263.7969",
-    "email": "phxfishing@mindspring.com",
-    "url": "http://www.mediabyjohn.com/fishing/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Rendezvous Riversports",
-    "address": "945 W. Broadway",
-    "address2": "",
-    "city": "Jackson",
-    "state": "Wyoming",
-    "zip": "83001",
-    "country": "USA",
-    "lat": 43.474645,
-    "lng": -110.783644,
-    "phone": "307-733-2471",
-    "email": "info@jacksonholekayak.com",
-    "url": "http://www.jacksonholekayak.com",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "River Basin Canoe & Kayak",
-    "address": "13038 Hwy 61 North",
-    "address2": "",
-    "city": "Burlington",
-    "state": "Iowa",
-    "zip": "52601",
-    "country": "USA",
-    "lat": 40.870955,
-    "lng": -91.162634,
-    "phone": "319-752-1857",
-    "email": "iowapaddler@yahoo.com",
-    "url": "http://www.canoeskayaks.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "River Sports Outfitters - Knoxville TN",
-    "address": "2918 Sutherland Avenue",
-    "address2": "",
-    "city": "Knoxville",
-    "state": "Tennessee",
-    "zip": "37919",
-    "country": "USA",
-    "lat": 35.952772,
-    "lng": -83.963238,
-    "phone": "(865) 523-0066",
-    "email": "info@riversportsoutfitters.com",
-    "url": "http://www.riversportsoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "RMI Outdoors",
-    "address": "1240 Broadway Street",
-    "address2": "",
-    "city": "Eureka",
-    "state": "California",
-    "zip": "95501",
-    "country": "USA",
-    "lat": 40.795204,
-    "lng": -124.176599,
-    "phone": "707.443.7029",
-    "email": "",
-    "url": "http://rmioutdoorseureka.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Rock/Creek Outfitters",
-    "address": "1530 Riverside Drive",
-    "address2": "",
-    "city": "Chattanooga",
-    "state": "Tennessee",
-    "zip": "37406",
-    "country": "USA",
-    "lat": 35.055353,
-    "lng": -85.280412,
-    "phone": "(888) 707-6708",
-    "email": "Rockcreek002@rockcreekoutfitters.com",
-    "url": "http://www.rockcreek.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Rocky Mountain Adventures, Inc.",
-    "address": "1117 N Hwy 287",
-    "address2": "",
-    "city": "Fort Collins",
-    "state": "Colorado",
-    "zip": "80524",
-    "country": "USA",
-    "lat": 40.625261,
-    "lng": -105.096253,
-    "phone": "970.493.4005",
-    "email": "info@ShopRMA.com",
-    "url": "https://www.shoprma.com",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Pack & Paddle",
-    "address": "601 E. Pinhook Rd",
-    "address2": "",
-    "city": "Lafayette",
-    "state": "Louisiana",
-    "zip": "70501",
-    "country": "USA",
-    "lat": 30.218561,
-    "lng": -92.00385,
-    "phone": "337-232-5854",
-    "email": "john@packpaddle.com",
-    "url": "http://www.packpaddle.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Nooga Paws",
-    "address": "313 Manufactureers Rd Ste 111",
-    "address2": "",
-    "city": "Chattanooga",
-    "state": "Tennessee",
-    "zip": "37405",
-    "country": "USA",
-    "lat": 35.062844,
-    "lng": -85.314412,
-    "phone": "423.531.6113",
-    "email": "",
-    "url": "https://noogapaws.com/#&panel1-1",
-    "enable_demo": false,
-    "categories": [
-      "Kennels"
-    ]
-  },
-  {
-    "name": "Northeast PA Kayak School",
-    "address": "123 Lehigh Drive",
-    "address2": "",
-    "city": "Lehighton",
-    "state": "Pennsylvania",
-    "zip": "18235",
-    "country": "USA",
-    "lat": 40.832718,
-    "lng": -75.70667,
-    "phone": "570-325-3432",
-    "email": "jerry@jtraft.com",
-    "url": "https://kayakschool.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals"
-    ]
-  },
-  {
-    "name": "Oak Orchard Canoe Kayak Experts",
-    "address": "1350 Empire Blvd. (Rte. 404)",
-    "address2": "",
-    "city": "Rochester",
-    "state": "New York",
-    "zip": "14609",
-    "country": "USA",
-    "lat": 43.175954,
-    "lng": -77.522193,
-    "phone": "585-288-5550",
-    "email": "oakorchardcanoe@rochester.rr.com",
-    "url": "http://oakorchardcanoe.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Oak Orchard Canoe Kayak Experts",
-    "address": "2133 Eagle Harbor Waterport Rd",
-    "address2": "",
-    "city": "Waterport",
-    "state": "New York",
-    "zip": "14571",
-    "country": "USA",
-    "lat": 43.311467,
-    "lng": -78.251014,
-    "phone": "585-682-4849",
-    "email": "oakorchardcanoe@rochester.rr.com",
-    "url": "http://oakorchardcanoe.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "OKC Kayak",
-    "address": "220 N. Western Avenue",
-    "address2": "",
-    "city": "Oklahoma City",
-    "state": "Oklahoma",
-    "zip": "73106",
-    "country": "USA",
-    "lat": 35.469541,
-    "lng": -97.529928,
-    "phone": "405-235-2925",
-    "email": "dave@okckayak.com",
-    "url": "http://www.okckayak.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Outdoor Experience",
-    "address": "124 East Broad Street",
-    "address2": "",
-    "city": "Cookeville",
-    "state": "Tennessee",
-    "zip": "38501",
-    "country": "USA",
-    "lat": 36.163276,
-    "lng": -85.503183,
-    "phone": "931-526-HIKE (4453)",
-    "email": "heather@outdoorexperienceonline.com",
-    "url": "http://outdoorexperienceonline.com/",
-    "enable_demo": true,
-    "categories": [
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Outdoor New England | ONE",
-    "address": "376 Central Street",
-    "address2": "",
-    "city": "Franklin Falls",
-    "state": "New Hampshire",
-    "zip": "3235",
-    "country": "USA",
-    "lat": 43.444885,
-    "lng": -71.645677,
-    "phone": "603.671.7028",
-    "email": "marty@outdoornewengland.com",
-    "url": "http://www.outdoornewengland.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Rentals",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Mighty Mite",
-    "address": "123 Hempstead Ave",
-    "address2": "",
-    "city": "Rockville Centre",
-    "state": "New York",
-    "zip": "11570",
-    "country": "USA",
-    "lat": 40.663995,
-    "lng": -73.64394,
-    "phone": "888-528-3414",
-    "email": "",
-    "url": "http://www.mightymitedoggear.com/",
-    "enable_demo": false,
-    "categories": [
-      "Kennels"
-    ]
-  },
-  {
-    "name": "Mountain Sports",
-    "address": "2025 West Pioneer Parkway",
-    "address2": "",
-    "city": "Arlington",
-    "state": "Texas",
-    "zip": "76013",
-    "country": "USA",
-    "lat": 32.710014,
-    "lng": -97.141102,
-    "phone": "(817) 461-4503",
-    "email": "info@mountainsports.com",
-    "url": "http://www.mountainsports.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Nantahala Outdoor Center",
-    "address": "13077 Highway 19",
-    "address2": "",
-    "city": "West Bryson City",
-    "state": "North Carolina",
-    "zip": "28713-9114",
-    "country": "USA",
-    "lat": 35.331325,
-    "lng": -83.592996,
-    "phone": "(800) 232-7238",
-    "email": "nocstore@noc.com",
-    "url": "http://www.noc.com",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Nats Outdoor Sports",
-    "address": "1121 Wilkinson Trace",
-    "address2": "",
-    "city": "Bowling Green",
-    "state": "Kentucky",
-    "zip": "42103",
-    "country": "USA",
-    "lat": 36.970607,
-    "lng": -86.432728,
-    "phone": "270-842-6211",
-    "email": "",
-    "url": "http://www.natsoutdoor.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Marietta Adventure Co.",
-    "address": "219-B Second st.",
-    "address2": "",
-    "city": "Marietta",
-    "state": "Ohio",
-    "zip": "45750",
-    "country": "USA",
-    "lat": 39.414195,
-    "lng": -81.453862,
-    "phone": "740-538-0801",
-    "email": "mariettaadventurecompany@gmail.com",
-    "url": "http://www.mariettaadventurecompany.com",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Massey's Professional Outfitters",
-    "address": "509 North Carrollton Ave.",
-    "address2": "",
-    "city": "New Orleans",
-    "state": "Louisiana",
-    "zip": "70119",
-    "country": "USA",
-    "lat": 29.977985,
-    "lng": -90.097416,
-    "phone": "504-648-0292",
-    "email": "bobby.johnson@masseys.net",
-    "url": "http://www.masseysoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Massey's Professional Outfitters",
-    "address": "7519 Corporate Blvd",
-    "address2": "",
-    "city": "Baton Rouge",
-    "state": "Louisiana",
-    "zip": "70809",
-    "country": "USA",
-    "lat": 30.432559,
-    "lng": -91.111371,
-    "phone": "225-246-7100",
-    "email": "bobby.johnson@masseys.net",
-    "url": "http://www.masseysoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Massey's Professional Outfitters",
-    "address": "816 North Highway 190",
-    "address2": "",
-    "city": "Covington",
-    "state": "Louisiana",
-    "zip": "70433",
-    "country": "USA",
-    "lat": 30.475909,
-    "lng": -90.087036,
-    "phone": "985-809-7544",
-    "email": "bobby.johnson@masseys.net",
-    "url": "http://www.masseysoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Massey's Professional Outfitters",
-    "address": "3363 Severn Ave.",
-    "address2": "",
-    "city": "Metairie",
-    "state": "Louisiana",
-    "zip": "70002",
-    "country": "USA",
-    "lat": 30.010674,
-    "lng": -90.158386,
-    "phone": "504-885-1144",
-    "email": "bobby.johnson@masseys.net",
-    "url": "http://www.masseysoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Maumee Tackle",
-    "address": "107 W Wayne Street",
-    "address2": "",
-    "city": "Maumee",
-    "state": "Ohio",
-    "zip": "43537",
-    "country": "USA",
-    "lat": 41.56211,
-    "lng": -83.653982,
-    "phone": "419.893.3474",
-    "email": "",
-    "url": "https://www.maumeetackle.net",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Hudson's Appliance Centers",
-    "address": "454 Pearson Road",
-    "address2": "",
-    "city": "Paradise",
-    "state": "California",
-    "zip": "95969",
-    "country": "USA",
-    "lat": 39.751873,
-    "lng": -121.616766,
-    "phone": "(530) 877-6312",
-    "email": "",
-    "url": "http://www.hudsonsappliance.com",
-    "enable_demo": false,
-    "categories": [
-      "Coolers"
-    ]
-  },
-  {
-    "name": "Hudson's Appliance Centers",
-    "address": "2525 Dominic Drive Suite D",
-    "address2": "",
-    "city": "Chico",
-    "state": "California",
-    "zip": "95928",
-    "country": "USA",
-    "lat": 39.713249,
-    "lng": -121.787645,
-    "phone": "(530) 877-6312",
-    "email": "",
-    "url": "http://www.hudsonsappliance.com",
-    "enable_demo": false,
-    "categories": [
-      "Coolers"
-    ]
-  },
-  {
-    "name": "Kayak Academy",
-    "address": "11801 188th AVE SE",
-    "address2": "",
-    "city": "Issaquah",
-    "state": "Washington",
-    "zip": "98027",
-    "country": "USA",
-    "lat": 47.49655,
-    "lng": -122.090294,
-    "phone": "(206) 527-1825",
-    "email": "info@kayakacademy.com",
-    "url": "http://www.kayakacademy.com",
-    "enable_demo": true,
-    "categories": [
-      "Coolers",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Kayak Instruction",
-    "address": "6809 Miller Road",
-    "address2": "",
-    "city": "Rowlett",
-    "state": "Texas",
-    "zip": "75088",
-    "country": "USA",
-    "lat": 32.890965,
-    "lng": -96.535207,
-    "phone": "214 629 4794",
-    "email": "dave@kayakinstruct.com",
-    "url": "http://www.kayakinstruct.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Kayak Junky",
-    "address": "2995 Chemin Ste Marie",
-    "address2": "",
-    "city": "Mascouche",
-    "state": "QC",
-    "zip": "J7K 1N9",
-    "country": "Canada",
-    "lat": 45.747422,
-    "lng": -73.601583,
-    "phone": "(450) 474-2762",
-    "email": "info@kayakjunky.com",
-    "url": "http://kayakjunky.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Gradient Mountain Sports",
-    "address": "1390 Sheridan Avenue",
-    "address2": "",
-    "city": "Cody",
-    "state": "Wyoming",
-    "zip": "82414",
-    "country": "USA",
-    "lat": 44.525793,
-    "lng": -109.060637,
-    "phone": "307-587-4659",
-    "email": "andy@gradientmountainsports.com",
-    "url": "https://www.gradientmountainsports.net/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Half Hitch Tackle",
-    "address": "2206 Thomas Drive",
-    "address2": "",
-    "city": "Panama City Beach",
-    "state": "Florida",
-    "zip": "32408",
-    "country": "USA",
-    "lat": 30.16299,
-    "lng": -85.75565,
-    "phone": "850-234-2621",
-    "email": "pc@halfhitch.com",
-    "url": "http://www.halfhitch.com",
-    "enable_demo": false,
-    "categories": [
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Half Hitch Tackle",
-    "address": "621 Harbor Boulevard",
-    "address2": "",
-    "city": "Destin",
-    "state": "Florida",
-    "zip": "32541",
-    "country": "USA",
-    "lat": 30.392369,
-    "lng": -86.494087,
-    "phone": 8502342621,
-    "email": "pc@halfhitch.com",
-    "url": "http://www.halfhitch.com",
-    "enable_demo": false,
-    "categories": [
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Half Hitch Tackle",
-    "address": "8711 Navarre Pkwy",
-    "address2": "",
-    "city": "Navarre",
-    "state": "Florida",
-    "zip": "32566",
-    "country": "USA",
-    "lat": 30.401509,
-    "lng": -86.858224,
-    "phone": "850-939-9885",
-    "email": "pc@halfhitch.com",
-    "url": "http://www.halfhitch.com",
-    "enable_demo": false,
-    "categories": [
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Half-moon Outfitters",
-    "address": "15 E Broughton Street",
-    "address2": "",
-    "city": "Savannah",
-    "state": "Georgia",
-    "zip": "31401",
-    "country": "USA",
-    "lat": 32.078528,
-    "lng": -81.091302,
-    "phone": "912 201 9393",
-    "email": "savannah@halfmoonoutfitters.com",
-    "url": "http://halfmoonoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Half-moon Outfitters",
-    "address": "1420 Laurens Road",
-    "address2": "",
-    "city": "Greenville",
-    "state": "South Carolina",
-    "zip": "29607",
-    "country": "USA",
-    "lat": 34.843976,
-    "lng": -82.36498,
-    "phone": "864 233 4001",
-    "email": "greenville@halfmoonoutfitters.com",
-    "url": "http://halfmoonoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Half-moon Outfitters",
-    "address": "2912 Devine Street",
-    "address2": "",
-    "city": "Columbia",
-    "state": "South Carolina",
-    "zip": "29205",
-    "country": "USA",
-    "lat": 33.997483,
-    "lng": -81.000258,
-    "phone": "803 929 0771",
-    "email": "columbia@halfmoonoutfitters.com",
-    "url": "http://halfmoonoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Half-moon Outfitters",
-    "address": "2907 Washington Rd",
-    "address2": "Bldg 100, Suite 110",
-    "city": "Augusta",
-    "state": "Georgia",
-    "zip": "30909",
-    "country": "USA",
-    "lat": 33.51351,
-    "lng": -82.039181,
-    "phone": "706 738 1778",
-    "email": "augusta@halfmoonoutfitters.com",
-    "url": "http://halfmoonoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Half-moon Outfitters",
-    "address": "394 Prince Avenue",
-    "address2": "",
-    "city": "Athens",
-    "state": "Georgia",
-    "zip": "30601",
-    "country": "USA",
-    "lat": 33.960941,
-    "lng": -83.383905,
-    "phone": "706 548 7225",
-    "email": "athens@halfmoonoutfitters.com",
-    "url": "http://halfmoonoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Half-moon Outfitters",
-    "address": "94 Folly Road Blvd.",
-    "address2": "",
-    "city": "Charleston",
-    "state": "South Carolina",
-    "zip": "29407",
-    "country": "USA",
-    "lat": 32.77538,
-    "lng": -79.974976,
-    "phone": "843 556 6279",
-    "email": "southwindermere@halfmoonoutfitters.com",
-    "url": "http://halfmoonoutfitters.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Fishing Tackle Unlimited",
-    "address": "8933 Katy Freeway",
-    "address2": "",
-    "city": "Houston",
-    "state": "Texas",
-    "zip": "77024-1604",
-    "country": "USA",
-    "lat": 29.783396,
-    "lng": -95.508953,
-    "phone": "(713) 827-7762",
-    "email": "emily@fishingtackleunlimted.com",
-    "url": "http://www.fishingtackleunlimited.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Fishing Tackle Unlimited",
-    "address": "12800 Gulf Fwy",
-    "address2": "",
-    "city": "Houston",
-    "state": "Texas",
-    "zip": "77034",
-    "country": "USA",
-    "lat": 29.613129,
-    "lng": -95.216136,
-    "phone": "(281) 481-6838",
-    "email": "emily@fishingtackleunlimted.com",
-    "url": "http://www.fishingtackleunlimited.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Fluid Fun",
-    "address": "609 North Division St.",
-    "address2": "",
-    "city": "Bristol",
-    "state": "Indiana",
-    "zip": "46507",
-    "country": "USA",
-    "lat": 41.725712,
-    "lng": -85.819524,
-    "phone": "574-848-4279",
-    "email": "",
-    "url": "http://www.fluidfun.com",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Front Royal Canoe",
-    "address": "8567 Stonewall Jackson Highway",
-    "address2": "",
-    "city": "Front Royal",
-    "state": "Virginia",
-    "zip": "22630",
-    "country": "USA",
-    "lat": 38.889482,
-    "lng": -78.243187,
-    "phone": "(540) 635-5440",
-    "email": "info@frontroyalcanoe.com",
-    "url": "http://www.frontroyalcanoe.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Flex Drive (FD)"
-    ]
-  },
-  {
-    "name": "Frontenac Outfitters",
-    "address": "6674 Bedford Rd",
-    "address2": "",
-    "city": "Sydenham",
-    "state": "Ontario",
-    "zip": "K0H2T0",
-    "country": "Canada",
-    "lat": 44.492988,
-    "lng": -76.562436,
-    "phone": "613.376.6220",
-    "email": "info@frontenacoutfitters.com",
-    "url": "https://frontenacoutfitters.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Garland Animal Wellness",
-    "address": "6997 Highwater Cir",
-    "address2": "",
-    "city": "Edmond",
-    "state": "Oklahoma",
-    "zip": "73034",
-    "country": "USA",
-    "lat": 35.726175,
-    "lng": -97.435009,
-    "phone": "405-285-5430",
-    "email": "",
-    "url": "http://www.garlandanimalwellness",
-    "enable_demo": false,
-    "categories": [
-      "Kennels"
-    ]
-  },
-  {
-    "name": "Delaware Paddlesports",
-    "address": "17296 Coastal Hwy",
-    "address2": "",
-    "city": "Lewes",
-    "state": "Delaware",
-    "zip": "19958",
-    "country": "USA",
-    "lat": 38.748886,
-    "lng": -75.18094,
-    "phone": "302-645-7300",
-    "email": "info@delawarepaddlesports.com",
-    "url": "http://www.delawarepaddlesports.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Dukes Automotive LLC",
-    "address": "614 S Market St",
-    "address2": "",
-    "city": "Lancaster",
-    "state": "South Carolina",
-    "zip": "29720",
-    "country": "USA",
-    "lat": 34.712868,
-    "lng": -80.764179,
-    "phone": "803.313.2482",
-    "email": "josh@dukesrv.com",
-    "url": "https://www.dukesautomotivellc.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Elevation Sports",
-    "address": "3100 Robert C Byrd Dr.",
-    "address2": "",
-    "city": "Beckley",
-    "state": "West Virginia",
-    "zip": "25801-3721",
-    "country": "USA",
-    "lat": 37.778293,
-    "lng": -81.19389,
-    "phone": "304-255-2664",
-    "email": "elevationskateboards@gmail.com",
-    "url": "http://elevationskateboards.com/",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Colorado Kayak Supply",
-    "address": "327 E Main Street",
-    "address2": "",
-    "city": "Buena Vista",
-    "state": "Colorado",
-    "zip": "81211",
-    "country": "USA",
-    "lat": 38.842452,
-    "lng": -106.129563,
-    "phone": "888 265 2925",
-    "email": "brad@cksmainstreet.com",
-    "url": "",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Confluence Kayaks",
-    "address": "2301 7th Street",
-    "address2": "",
-    "city": "Denver",
-    "state": "Colorado",
-    "zip": "80211",
-    "country": "United States",
-    "lat": 39.752276,
-    "lng": -105.014535,
-    "phone": "303-433-3676",
-    "email": "shopinfo@confluencekayaks.com",
-    "url": "https://www.confluencekayaks.com",
-    "enable_demo": true,
-    "categories": [
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "CrawDaddy Outdoors",
-    "address": "207 E. Bremer Ave",
-    "address2": "",
-    "city": "Waverly",
-    "state": "Iowa",
-    "zip": "50677",
-    "country": "USA",
-    "lat": 42.726078,
-    "lng": -92.467755,
-    "phone": "(319) 352-9129",
-    "email": "info@crawdaddyoutdoors.com",
-    "url": "http://crawdaddyoutdoors.com",
-    "enable_demo": true,
-    "categories": [
-      "Coolers",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Caney Fork Outdoors",
-    "address": "1075 Wolf Creek Road",
-    "address2": "",
-    "city": "Silver Point",
-    "state": "Tennessee",
-    "zip": "38582",
-    "country": "United States",
-    "lat": 36.104175,
-    "lng": -85.820233,
-    "phone": "931-858-5222",
-    "email": "helpdesk@cfoutdoors.com",
-    "url": "https://cfoutdoors.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Kennels",
-      "Recreation",
-      "Rentals",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Canoe Kentucky",
-    "address": "7323 Peaks Mill Road",
-    "address2": "",
-    "city": "Frankfort",
-    "state": "Kentucky",
-    "zip": "40601",
-    "country": "USA",
-    "lat": 38.298124,
-    "lng": -84.812511,
-    "phone": "888 CANOE KY",
-    "email": "info@canoeky.com",
-    "url": "http://www.canoeky.com",
-    "enable_demo": true,
-    "categories": [
-      "Coolers",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Central Coast kayaks",
-    "address": "1879 Shell Beach Road",
-    "address2": "",
-    "city": "Pismo Beach",
-    "state": "California",
-    "zip": "93449",
-    "country": "USA",
-    "lat": 35.158746,
-    "lng": -120.675417,
-    "phone": "805-773-3500",
-    "email": "cckayaks805@gmail.com",
-    "url": "http://www.centralcoastkayaks.com",
-    "enable_demo": true,
-    "categories": [
-      "Fishing"
-    ]
-  },
-  {
-    "name": "Chipper and Coco",
-    "address": "148 Oakhurst Trail",
-    "address2": "",
-    "city": "Ridgeland",
-    "state": "Mississippi",
-    "zip": "39157",
-    "country": "USA",
-    "lat": 32.432501,
-    "lng": -90.167898,
-    "phone": "601.842.5200",
-    "email": "",
-    "url": "https://chipperandcoco.com/",
-    "enable_demo": false,
-    "categories": [
-      "Kennels"
-    ]
-  },
-  {
-    "name": "Clear Water Outfitting",
-    "address": "100 Pine Street",
-    "address2": "",
-    "city": "Clearwater",
-    "state": "Minnesota",
-    "zip": "55320",
-    "country": "USA",
-    "lat": 45.417985,
-    "lng": -94.045818,
-    "phone": "320-558-8123",
-    "email": "",
-    "url": "https://www.cwoutfitting.com/",
-    "enable_demo": false,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Bighorn Outdoor Specialists",
-    "address": "206 5th Street South",
-    "address2": "",
-    "city": "Great Falls",
-    "state": "Montana",
-    "zip": "59405",
-    "country": "USA",
-    "lat": 47.502712,
-    "lng": -111.299522,
-    "phone": "406-453-2841",
-    "email": "info@bighornoutdoorspecialists.com",
-    "url": "http://www.bighornoutdoorspecialists.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Bill Jackson's",
-    "address": "9501 U.S. Highway 19 North",
-    "address2": "",
-    "city": "Pinellas Park",
-    "state": "Florida",
-    "zip": "33782",
-    "country": "USA",
-    "lat": 27.859055,
-    "lng": -82.69673,
-    "phone": "727-576-4169",
-    "email": "adventure@billjacksons.com",
-    "url": "http://billjacksons.com/index.php",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Aquabatics Calgary",
-    "address": "3825 99th Street",
-    "address2": "",
-    "city": "Edmonton",
-    "state": "Alberta",
-    "zip": "T6E 6J1",
-    "country": "Canada",
-    "lat": 53.4726,
-    "lng": -113.485247,
-    "phone": "(780) 463-4892",
-    "email": "info@aquabaticsedmonton.com",
-    "url": "http://www.aquabaticscalgary.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Aquabatics Calgary",
-    "address": "8435 Bowfort Rd NW",
-    "address2": "#300",
-    "city": "Calgary",
-    "state": "Alberta",
-    "zip": "T3B 2V2",
-    "country": "Canada",
-    "lat": 51.084565,
-    "lng": -114.209603,
-    "phone": "1 403-288-9283",
-    "email": "info@aqoutdoors.com",
-    "url": "http://www.aquabaticscalgary.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Bear Mountain Outdoors",
-    "address": "4425 W Waco Dr",
-    "address2": "",
-    "city": "Waco",
-    "state": "Texas",
-    "zip": "76710",
-    "country": "USA",
-    "lat": 31.52674,
-    "lng": -97.173239,
-    "phone": "254-772-4327",
-    "email": "",
-    "url": "https://www.thebearmountainoutdoor.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Beaver Sports",
-    "address": "3480 College Rd",
-    "address2": "",
-    "city": "Fairbanks",
-    "state": "Alaska",
-    "zip": "99709",
-    "country": "USA",
-    "lat": 64.856852,
-    "lng": -147.807025,
-    "phone": "(907) 479-2494",
-    "email": "paddle@beaversports.com",
-    "url": "http://www.beaversports.com",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Big Wills Outfitters",
-    "address": "2939 Wesson Gap Rd",
-    "address2": "",
-    "city": "Attalla",
-    "state": "Alabama",
-    "zip": "35954",
-    "country": "USA",
-    "lat": 34.049875,
-    "lng": -86.084525,
-    "phone": "256-438-7172",
-    "email": "Kreekn@gmail.com",
-    "url": "https://bigwillsoutfitters.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation"
-    ]
-  },
-  {
-    "name": "Alpenglow Mountainsport",
-    "address": "2314 Bogus Basin Rd",
-    "address2": "",
-    "city": "Boise",
-    "state": "Idaho",
-    "zip": "83702",
-    "country": "USA",
-    "lat": 43.640525,
-    "lng": -116.207942,
-    "phone": "208-331-2628",
-    "email": "info@alpenglowidaho.com",
-    "url": "http://www.alpenglowidaho.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Alpine Boatworks",
-    "address": "3320 N Adrianne Way",
-    "address2": "",
-    "city": "Flagstaff",
-    "state": "Arizona",
-    "zip": "86004",
-    "country": "USA",
-    "lat": 35.22324,
-    "lng": -111.621753,
-    "phone": "303.250.5624",
-    "email": "",
-    "url": "https://www.alpineboatworks.com/",
-    "enable_demo": false,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Alpine Quest Sports",
-    "address": "34510 US Hwy 6",
-    "address2": "Unit A-1",
-    "city": "Edwards",
-    "state": "Colorado",
-    "zip": "81632",
-    "country": "USA",
-    "lat": 39.52979,
-    "lng": -107.781492,
-    "phone": "970-926-3867",
-    "email": "info@alpinequestsports.com",
-    "url": "http://www.alpinequestsports.com",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Alpine Quest Sports",
-    "address": "0062 County Road 135",
-    "address2": "",
-    "city": "Glenwood Springs",
-    "state": "Colorado",
-    "zip": "81601",
-    "country": "USA",
-    "lat": 39.562773,
-    "lng": -107.355095,
-    "phone": "(970) 928-9949",
-    "email": "info@alpinequestsports.com",
-    "url": "http://www.alpinequestsports.com/",
-    "enable_demo": true,
-    "categories": [
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Alpine Shop",
-    "address": "1102 E Broadway",
-    "address2": "",
-    "city": "Colombia",
-    "state": "Missouri",
-    "zip": "65201",
-    "country": "USA",
-    "lat": 38.951222,
-    "lng": -92.325298,
-    "phone": "573-817-2955",
-    "email": "",
-    "url": "http://www.alpineshop.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Alpine Shop",
-    "address": "440 N. Kirkwood",
-    "address2": "",
-    "city": "Kirkwood",
-    "state": "Missouri",
-    "zip": "63122",
-    "country": "USA",
-    "lat": 38.586044,
-    "lng": -90.405779,
-    "phone": "(314) 962-7715",
-    "email": "",
-    "url": "http://www.alpineshop.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Alpine Shop",
-    "address": "855 W. US Highway 50",
-    "address2": "",
-    "city": "O'Fallon",
-    "state": "Illinois",
-    "zip": "62269",
-    "country": "USA",
-    "lat": 38.591877,
-    "lng": -89.933291,
-    "phone": "618-726-6110",
-    "email": "",
-    "url": "http://www.alpineshop.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Appomattox River Company",
-    "address": "614 N. Main Street",
-    "address2": "",
-    "city": "Farmville",
-    "state": "Virginia",
-    "zip": "23901",
-    "country": "USA",
-    "lat": 37.308521,
-    "lng": -78.388172,
-    "phone": "434-392-6645",
-    "email": "sales@paddleva.com",
-    "url": "http://www.paddleva.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Fishing",
-      "Flex Drive (FD)",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "37 NORTH",
-    "address": "27 State Road",
-    "address2": "",
-    "city": "Newaygo",
-    "state": "Michigan",
-    "zip": "49377",
-    "country": "USA",
-    "lat": 43.414052,
-    "lng": -85.807431,
-    "phone": "231-652-2800",
-    "email": "the37north@gmail.com",
-    "url": "https://www.the37north.com/",
-    "enable_demo": false,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "4 Corners River Sports",
-    "address": "360 South Camino Del Rio",
-    "address2": "",
-    "city": "Durango",
-    "state": "Colorado",
-    "zip": "81301",
-    "country": "USA",
-    "lat": 37.251588,
-    "lng": -107.874745,
-    "phone": "800-426-7637",
-    "email": "info@riversports.com",
-    "url": "http://www.riversports.com",
-    "enable_demo": true,
-    "categories": [
-      "Blue Sky Boatworks",
-      "Coolers",
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
-  },
-  {
-    "name": "Ace Adventure Gear",
-    "address": "239 N Court St",
-    "address2": "",
-    "city": "Fayetteville",
-    "state": "West Virginia",
-    "zip": "25840",
-    "country": "USA",
-    "lat": 38.055413,
-    "lng": -81.105286,
-    "phone": "304-574-1900",
-    "email": "ace@aceraft.com",
-    "url": "http://www.aceadventuregear.com/",
-    "enable_demo": true,
-    "categories": [
-      "Fishing",
-      "Recreation",
-      "Whitewater"
-    ]
+[
+    {
+        "name": "Oak Tree Outfitters",
+        "address": "4934 George Washington Memorial Hwy,",
+        "address2": "",
+        "city": "Hayes",
+        "state": "VA",
+        "zip": "23072",
+        "country": "United States",
+        "lat": 37.340044,
+        "lng": -76.520224,
+        "phone": "(804) 815-4669",
+        "email": "travis@oaktreeoutfitters.net",
+        "url": "https://oaktreeoutfitters.net",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatwork",
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Downhill Kayaking",
+        "address": "83 County Road 620",
+        "address2": "",
+        "city": "Mentone",
+        "state": "AL",
+        "zip": "35984",
+        "country": "United States",
+        "lat": 34.512203,
+        "lng": -85.622694,
+        "phone": "",
+        "email": "",
+        "url": "https://downhillkayaking.wordpress.com/",
+        "enable_demo": false,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Journey Outdoors - Lexington VA",
+        "address": "172 West Midland Trail",
+        "address2": "",
+        "city": "Lexington",
+        "state": "Virginia",
+        "zip": "24450",
+        "country": "United States",
+        "lat": 37.795996,
+        "lng": -79.456507,
+        "phone": "(540) 461-8816",
+        "email": "bryan@journeyoutlex.com",
+        "url": "https://journeyoutlex.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Yakworks",
+        "address": "4807 Southport-Supply Road",
+        "address2": "Unit 1",
+        "city": "Southport",
+        "state": "North Carolina",
+        "zip": "28461",
+        "country": "United States",
+        "lat": 33.954492,
+        "lng": -78.058747,
+        "phone": "(252) 203-5660",
+        "email": "sales@yak-works.com",
+        "url": "https://yak-works.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Alder Creek",
+        "address": "200 NE Tomahawk Isl Dr",
+        "address2": "",
+        "city": "Portland",
+        "state": "Oregon",
+        "zip": "97217",
+        "country": "United States",
+        "lat": 45.604946,
+        "lng": -122.66482,
+        "phone": "503-285-0464",
+        "email": "dave@aldercreek.com",
+        "url": "https://aldercreek.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatwork",
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Ozark Kayak",
+        "address": "3706 NW Frontage Rd",
+        "address2": "Ste 4",
+        "city": "Bentonville",
+        "state": "AR",
+        "zip": "72712",
+        "country": "United States",
+        "lat": 36.420631,
+        "lng": -94.222256,
+        "phone": "479-866-0900",
+        "email": "ozarkkayaks@gmail.com",
+        "url": "https://ozarkkayak.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatwork",
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Shady Maple RV",
+        "address": "160 Ewell Rd",
+        "address2": "",
+        "city": "East Earl",
+        "state": "PA",
+        "zip": "17519",
+        "country": "United States",
+        "lat": 40.115951,
+        "lng": -76.036529,
+        "phone": "717-351-0087",
+        "email": "sales3@shadymaplerv.com",
+        "url": "http://www.shadymaplerv.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Benson Ski & Sport",
+        "address": "6 Martin St.",
+        "address2": "",
+        "city": "Derry",
+        "state": "NH",
+        "zip": "3038",
+        "country": "United States",
+        "lat": 42.88099,
+        "lng": -71.327523,
+        "phone": "603-432-2532",
+        "email": "brad@bensonskiandsport.com",
+        "url": "http://bensonskiandsport.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Sandy Point Progressive Sports",
+        "address": "3090 S Ridgewood Ave",
+        "address2": "",
+        "city": "South Daytona",
+        "state": "FL",
+        "zip": "32119",
+        "country": "United States",
+        "lat": 29.153947,
+        "lng": -80.99344,
+        "phone": "386-756-7564",
+        "email": "curtis@progressivesports.com",
+        "url": "https://progressivesports.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Pacific Outfitters",
+        "address": "955 N State St",
+        "address2": "",
+        "city": "Ukiah",
+        "state": "CA",
+        "zip": "95501",
+        "country": "United States",
+        "lat": 39.16069,
+        "lng": -123.20879,
+        "phone": "",
+        "email": "elizabeth@pacificoutfitters.com",
+        "url": "https://pacificoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Pacific Outfitters",
+        "address": "1600 5th St",
+        "address2": "",
+        "city": "Eureka",
+        "state": "CA",
+        "zip": "95482",
+        "country": "United States",
+        "lat": 40.803267,
+        "lng": -124.1544,
+        "phone": "",
+        "email": "aaron@pacificoutfitters.com",
+        "url": "https://pacificoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Headwaters Outfitters",
+        "address": "25 Parkway Rd.",
+        "address2": "",
+        "city": "Rosman",
+        "state": "NC",
+        "zip": "28772",
+        "country": "United States",
+        "lat": 35.143534,
+        "lng": -82.839282,
+        "phone": "828-877-3106",
+        "email": "danielle@headwatersoutfitters.com",
+        "url": "http://www.headwatersoutfitters.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Pagaie Quebec",
+        "address": "3180 CH Ste-Foy",
+        "address2": "",
+        "city": "Quebec",
+        "state": "QB",
+        "zip": "G1X 1R4",
+        "country": "Canada",
+        "lat": 46.773887,
+        "lng": -71.31528,
+        "phone": -10078,
+        "email": "patriceboulay@pagaiequebec.com",
+        "url": "https://www.pagaiequebec.ca/",
+        "enable_demo": false,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Happy Hippy Outfitters",
+        "address": "3133 North Ashley Street",
+        "address2": "",
+        "city": "Valdosta",
+        "state": "GA",
+        "zip": "31601",
+        "country": "United States",
+        "lat": 30.874798,
+        "lng": -83.292082,
+        "phone": "(229) 561-6123",
+        "email": "happyhippyoutfitters@gmail.com",
+        "url": "",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatwork",
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Windtoys",
+        "address": "625 Martin Avenue, Suite A",
+        "address2": "",
+        "city": "Rohnert Park",
+        "state": "CA",
+        "zip": "94928",
+        "country": "United States",
+        "lat": 38.355271,
+        "lng": -122.724446,
+        "phone": "707-542-7245",
+        "email": "billy",
+        "url": "",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "London Oaks Outfitters",
+        "address": "607 E. Blanco Rd",
+        "address2": "",
+        "city": "Boerne",
+        "state": "TX",
+        "zip": "78006",
+        "country": "United States",
+        "lat": 29.796037,
+        "lng": -98.727446,
+        "phone": "361-774-7519",
+        "email": "kwlondong@londonoaksoutfitters.com",
+        "url": "http://www.londonoaksoutfitters.com",
+        "enable_demo": false,
+        "categories": [
+            "Coolers"
+        ]
+    },
+    {
+        "name": "Big Bass USA",
+        "address": "6250 Bethlehem Rd",
+        "address2": "",
+        "city": "Preston",
+        "state": "MD",
+        "zip": "21655",
+        "country": "United States",
+        "lat": 38.779268,
+        "lng": -75.880439,
+        "phone": "410-310-9994",
+        "email": "chris@bigbassusa.com",
+        "url": "https://www.bigbassusa.com/default.asp",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Palmetto Pines Outfitters",
+        "address": "4335 US Highway 378 W",
+        "address2": "",
+        "city": "McCormick",
+        "state": "SC",
+        "zip": "29835",
+        "country": "United States",
+        "lat": 33.890232,
+        "lng": -82.320495,
+        "phone": "864-378-7566",
+        "email": "Palmettopinesoutfitters@gmail.com",
+        "url": "https://palmettopinesoutfitters.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Jake's Bait & Tackle",
+        "address": "234 Ezra Ln #3",
+        "address2": "",
+        "city": "Winchester",
+        "state": "VA",
+        "zip": "22603",
+        "country": "United States",
+        "lat": 39.217481,
+        "lng": -78.13052,
+        "phone": "540-723-4621",
+        "email": "info@jakesbaitandtackle.com",
+        "url": "https://jakesbaitandtackle.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Ron Hoover RV and Marine",
+        "address": "6512 US-180",
+        "address2": "",
+        "city": "Breckenridge",
+        "state": "TX",
+        "zip": "76424",
+        "country": "United States",
+        "lat": 32.769568,
+        "lng": -99.013627,
+        "phone": "(254) 328-1992",
+        "email": "dchafin@ronhoover.com",
+        "url": "http://ronhooverrvs.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Half-Moon Outfitters",
+        "address": "605 N. Main St Unit A",
+        "address2": "",
+        "city": "Summerville",
+        "state": "SC",
+        "zip": "29483",
+        "country": "United States",
+        "lat": 33.026754,
+        "lng": -80.169408,
+        "phone": "854-354-9670",
+        "email": "summerville@halfmoonoutfitters.com",
+        "url": "https://www.halfmoonoutfitters.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Half-Moon Outfitters",
+        "address": "119 West Avenue",
+        "address2": "",
+        "city": "Kannapolis",
+        "state": "NC",
+        "zip": "28081",
+        "country": "United States",
+        "lat": 35.497579,
+        "lng": -80.625448,
+        "phone": "704-647-7701",
+        "email": "kannapolis@halfmoonoutfitters.com",
+        "url": "https://www.halfmoonoutfitters.com/",
+        "enable_demo": false,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Outdoor Supply Company",
+        "address": "2427 N Center St",
+        "address2": "",
+        "city": "Hickory",
+        "state": "NC",
+        "zip": "28601-1320",
+        "country": "United States",
+        "lat": 35.763485,
+        "lng": -81.334218,
+        "phone": "(828) 322-2297",
+        "email": "cmogray@outdoorsupplycompany.com",
+        "url": "https://www.outdoorsupplycompany.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Kayak and More",
+        "address": "7910 KY-259",
+        "address2": "",
+        "city": "Bee Spring",
+        "state": "KY",
+        "zip": "42207",
+        "country": "United States",
+        "lat": 37.28802,
+        "lng": -86.279397,
+        "phone": "270-286-7001",
+        "email": "kim@kayaksandmoreonline.com",
+        "url": "http://kayaksandmoreonline.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Big Bass USA",
+        "address": "10279 River Landing Rd",
+        "address2": "",
+        "city": "Denton",
+        "state": "MD",
+        "zip": "21629",
+        "country": "United States",
+        "lat": 38.8897,
+        "lng": -75.838302,
+        "phone": "(410) 310-9994",
+        "email": "chris@bigbassusa.com",
+        "url": "https://www.bigbassusa.com/aboutus.asp",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)"
+        ]
+    },
+    {
+        "name": "Festive Water",
+        "address": "5285 Lake Pointe Center Dr. Suite A",
+        "address2": "",
+        "city": "Cumming",
+        "state": "GA",
+        "zip": "30041",
+        "country": "United States",
+        "lat": 34.249161,
+        "lng": -84.05749,
+        "phone": "404-480-8050",
+        "email": "festivewaterllc@gmail.com",
+        "url": "https://festivewater.com/",
+        "enable_demo": true,
+        "categories": [
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Oregon Watershed",
+        "address": "112 Main Street",
+        "address2": "",
+        "city": "Springfield",
+        "state": "OR",
+        "zip": "97477",
+        "country": "United States",
+        "lat": 44.046377,
+        "lng": -123.0251,
+        "phone": "541-505-8421",
+        "email": "oregonwatershed@gmail.com",
+        "url": "https://www.oregonwatershed.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "First Water",
+        "address": "721 Glider Lane",
+        "address2": "",
+        "city": "Belgrade",
+        "state": "MT",
+        "zip": "59714",
+        "country": "United States",
+        "lat": 45.796457,
+        "lng": -111.182148,
+        "phone": "406-219-7285",
+        "email": "support@firstwaterboats.com",
+        "url": "http://firstwaterboats.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatwork",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "ETX Paddlesport",
+        "address": "3225 S. Southwest Loop 323",
+        "address2": "",
+        "city": "Tyler",
+        "state": "TX",
+        "zip": "75701",
+        "country": "United States",
+        "lat": 32.310582,
+        "lng": -95.341696,
+        "phone": "903-630-3433",
+        "email": "sales@etxpaddlesports.com",
+        "url": "http://etxpaddlesports.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatwork",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "First Water",
+        "address": "721 Glider Lane",
+        "address2": "",
+        "city": "Belgrade",
+        "state": "MT",
+        "zip": "59714",
+        "country": "United States",
+        "lat": 45.796457,
+        "lng": -111.182148,
+        "phone": "406-219-7285",
+        "email": "support@firstwaterboats.com",
+        "url": "http://www.firstwaterboats.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Blue Ridge Paddling",
+        "address": "1001 S Industrial Dr.",
+        "address2": "",
+        "city": "Erwin",
+        "state": "TN",
+        "zip": "37650",
+        "country": "United States",
+        "lat": 36.125542,
+        "lng": -82.442481,
+        "phone": "423-388-6002",
+        "email": "mschmidt@blueridgepaddling.com",
+        "url": "http://www.blueridgepaddling.com/",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "River Rock Outfitter",
+        "address": "215 William St",
+        "address2": "",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "zip": "22401-5829",
+        "country": "United States",
+        "lat": 38.303622,
+        "lng": -77.460401,
+        "phone": "540-372-8708",
+        "email": "info@riverrockoutfitter.com",
+        "url": "https://riverrockoutfitter.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)"
+        ]
+    },
+    {
+        "name": "Moss Mountain Outfitters",
+        "address": "326 Main St #102",
+        "address2": "",
+        "city": "Danville",
+        "state": "VA",
+        "zip": "24541",
+        "country": "United States",
+        "lat": 36.58821,
+        "lng": -79.391315,
+        "phone": "434-835-2641",
+        "email": "landon@headupeyesforward.com",
+        "url": "http://www.mossmountainoutfitters.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Chattooga Whitewater",
+        "address": "14239 Long Creek Hwy",
+        "address2": "",
+        "city": "Long Creek",
+        "state": "SC",
+        "zip": "29658",
+        "country": "United States",
+        "lat": 34.798179,
+        "lng": -83.271611,
+        "phone": "864-647-9083",
+        "email": "lifeinlongcreek@gmail.com",
+        "url": "https://www.lifeinlongcreek.com/chattooga-whitewater-shop/",
+        "enable_demo": false,
+        "categories": [
+            "Rentals",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Cole's Army Surplus",
+        "address": "118 N Chadbourne St",
+        "address2": "",
+        "city": "Tyler",
+        "state": "TX",
+        "zip": "76903",
+        "country": "United States",
+        "lat": 31.466786,
+        "lng": -100.4382,
+        "phone": "325-653-1903",
+        "email": "colesarmysurplus.business@gmail.com",
+        "url": "https://www.colesarmysurplus.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)"
+        ]
+    },
+    {
+        "name": "Tackle Shack",
+        "address": "9683 Route 287",
+        "address2": "",
+        "city": "Wellsboro",
+        "state": "PA",
+        "zip": "16901",
+        "country": "United States",
+        "lat": 41.794689,
+        "lng": -77.304239,
+        "phone": "(570) 724-5138",
+        "email": "tackleshack@frontiernet.net",
+        "url": "https://www.shoptackleshack.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Wilderness Voyageurs",
+        "address": "103 Garrett Street",
+        "address2": "",
+        "city": "Ohiopyle",
+        "state": "PA",
+        "zip": "15470",
+        "country": "United States",
+        "lat": 39.871493,
+        "lng": -79.492315,
+        "phone": "800-272-4141",
+        "email": "rafting@wilderness-voyageurs.com",
+        "url": "https://wilderness-voyageurs.com/",
+        "enable_demo": false,
+        "categories": [
+            "Rentals",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Marietta Adventure Co.",
+        "address": "219 2nd St",
+        "address2": "",
+        "city": "Marietta",
+        "state": "OH",
+        "zip": "45750",
+        "country": "United States",
+        "lat": 39.414195,
+        "lng": -81.453862,
+        "phone": "(740) 538-0801",
+        "email": "mariettaadventurecompany@gmail.com",
+        "url": "https://www.mariettaadventurecompany.com/?fbclid=IwAR0U41v-e_v3D8KqeCHoPIi4wQ09w27XjFFZWJ_ZqEyZByl4WGet5s7Ov-s",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Utah Whitewater Gear",
+        "address": "7307 State St",
+        "address2": "",
+        "city": "Midvale",
+        "state": "UT",
+        "zip": "84047",
+        "country": "United States",
+        "lat": 40.61863,
+        "lng": -111.890138,
+        "phone": "",
+        "email": "",
+        "url": "",
+        "enable_demo": false,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "The River Store",
+        "address": "1032 Lotus Rd",
+        "address2": "",
+        "city": "Lotus",
+        "state": "CA",
+        "zip": "95651",
+        "country": "United States",
+        "lat": 38.798807,
+        "lng": -120.910958,
+        "phone": "(530) 626-3435",
+        "email": "info@theriverstore.com",
+        "url": "https://theriverstore.com",
+        "enable_demo": false,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Highwater Hobbies",
+        "address": "4489 Hudson Rd",
+        "address2": "",
+        "city": "Albright",
+        "state": "WV",
+        "zip": "26519",
+        "country": "United States",
+        "lat": 39.584724,
+        "lng": -79.640101,
+        "phone": "404 274 5216",
+        "email": "masterdon416@gmail.com",
+        "url": "http://www.highwaterhobbies.com/",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "French Broad Outfitters",
+        "address": "704 Riverside Dr",
+        "address2": "",
+        "city": "Asheville",
+        "state": "NC",
+        "zip": "28801",
+        "country": "United States",
+        "lat": 35.608492,
+        "lng": -82.577533,
+        "phone": "(828) 505-7371",
+        "email": "frenchbroadoutfitters@gmail.com",
+        "url": "https://www.frenchbroadoutfitters.com/",
+        "enable_demo": false,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Pirates Cove",
+        "address": "136 PA-507",
+        "address2": "",
+        "city": "Hawley",
+        "state": "PA",
+        "zip": "18428",
+        "country": "United States",
+        "lat": 41.438513,
+        "lng": -75.174329,
+        "phone": "570-226-2220",
+        "email": "skip@pcmpa.com",
+        "url": "https://www.pcmpa.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Watch Hill Outfitters",
+        "address": "157 Main St, Westerly",
+        "address2": "",
+        "city": "Westerly",
+        "state": "RI",
+        "zip": "2891",
+        "country": "United States",
+        "lat": 41.372164,
+        "lng": -71.831121,
+        "phone": "401-596-7217",
+        "email": "mike@watchhilloutfitters.com",
+        "url": "https://www.watchhilloutfitters.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "JD Outdoors",
+        "address": "2437 SW 67th Ave",
+        "address2": "",
+        "city": "Maimi",
+        "state": "FL",
+        "zip": "33155",
+        "country": "United States",
+        "lat": 25.747578,
+        "lng": -80.303302,
+        "phone": "",
+        "email": "jesus@estradaroofing.biz",
+        "url": "",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)"
+        ]
+    },
+    {
+        "name": "KayakHub",
+        "address": "13807 W Hillsborough Ave",
+        "address2": "",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33635",
+        "country": "United States",
+        "lat": 28.03253,
+        "lng": -82.644002,
+        "phone": "(813)368-7637",
+        "email": "info@thekayakhub.com",
+        "url": "https://thekayakhub.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "No Bad Days Kayak",
+        "address": "1900 East Howard Lane Bldg F Suite 1",
+        "address2": "",
+        "city": "Pflugerville",
+        "state": "TX",
+        "zip": "78660",
+        "country": "United States",
+        "lat": 30.402498,
+        "lng": -97.633749,
+        "phone": "512-229-0560",
+        "email": "support@nobaddayskayak.com",
+        "url": "https://nobaddayskayak.com",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Flugers Outdoors",
+        "address": "1232 W. Marshall Ave",
+        "address2": "",
+        "city": "Longview",
+        "state": "TX",
+        "zip": "75604",
+        "country": "United States",
+        "lat": 32.503977,
+        "lng": -94.765624,
+        "phone": "903-470-7220",
+        "email": "flugerslongview@gmail.com",
+        "url": "https://flugerslongview.com",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Wander North Georgia dba North Georgia Social Club",
+        "address": "87 N Main St",
+        "address2": "",
+        "city": "Clayton",
+        "state": "GA",
+        "zip": "30525-4263",
+        "country": "United States",
+        "lat": 34.879562,
+        "lng": -83.40092,
+        "phone": "770-750-4470",
+        "email": "info@wandernorthgeorgia.com",
+        "url": "https://wandernorthgeorgia.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Venice Outdoor Sports",
+        "address": "1562 S Tamiami Trail",
+        "address2": "",
+        "city": "South Venice",
+        "state": "FL",
+        "zip": "34239",
+        "country": "United States",
+        "lat": 27.07585,
+        "lng": -82.427326,
+        "phone": 9418410719,
+        "email": "info@veniceoutdoorssports.com",
+        "url": "https://www.veniceoutdoorsports.com",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Country Smokehouse",
+        "address": "3294 VanDyke Rd.",
+        "address2": "",
+        "city": "Almont",
+        "state": "MI",
+        "zip": "48003",
+        "country": "United States",
+        "lat": 42.969681,
+        "lng": -83.058329,
+        "phone": "810-798-3064",
+        "email": "smokin@countrysmokehouseinc.com",
+        "url": "http://countrysmokehouse.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Lake Erie Adventures",
+        "address": "507 River Rd.",
+        "address2": "",
+        "city": "Huron",
+        "state": "OH",
+        "zip": "44839",
+        "country": "United States",
+        "lat": 41.389146,
+        "lng": -82.550726,
+        "phone": "419-366-3830",
+        "email": "hello@lakeerieadventure.com",
+        "url": "http://lakeerieadventure.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Paradise Outfitters",
+        "address": "14781 N FAIRVIEW DR UNIT I",
+        "address2": "",
+        "city": "Smithville",
+        "state": "MO",
+        "zip": "64089",
+        "country": "United States",
+        "lat": 39.427691,
+        "lng": -94.514986,
+        "phone": "816-592-3837",
+        "email": "info@paradiseoutfittersmo.com",
+        "url": "http://paradiseoutfittersmo.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "ECO Fishing Shop",
+        "address": "1479 Business Rte. 5",
+        "address2": "",
+        "city": "Camdenton",
+        "state": "MO",
+        "zip": "65020",
+        "country": "United States",
+        "lat": 37.9952,
+        "lng": -92.724683,
+        "phone": "573-873-2772",
+        "email": "sales@ecofishingshop.com",
+        "url": "http://ecofishingshop.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Trusty Watersports LLC - DBA Trusty Sail and Paddle",
+        "address": "5300 Hwy 70 W",
+        "address2": "",
+        "city": "Morehead City",
+        "state": "NC",
+        "zip": "28557",
+        "country": "United States",
+        "lat": 34.730072,
+        "lng": -76.848605,
+        "phone": "252-499-9911",
+        "email": "trustywatersports@gmail.com",
+        "url": "https://www.trustysailandpaddle.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "eNRG",
+        "address": "1701 Clackamette Dr",
+        "address2": "",
+        "city": "Oregon City",
+        "state": "OR",
+        "zip": "97045",
+        "country": "United States",
+        "lat": 45.364142,
+        "lng": -122.602184,
+        "phone": "503-772-1122",
+        "email": "samdrevo@gmail.com",
+        "url": "https://enrgkayaking.com/",
+        "enable_demo": true,
+        "categories": [
+            "Rentals",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Morgan Marine",
+        "address": "2 NY-54",
+        "address2": "",
+        "city": "Pen Yan",
+        "state": "NY",
+        "zip": "14527",
+        "country": "United States",
+        "lat": 42.648718,
+        "lng": -77.061892,
+        "phone": "315-536-8166",
+        "email": "ryan@morganmarine.net",
+        "url": "https://www.morganmarine.net/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Adirondack All Seasons Outfitters",
+        "address": "3196 NY-28",
+        "address2": "",
+        "city": "North Creek",
+        "state": "NY",
+        "zip": "12853",
+        "country": "United States",
+        "lat": 43.68223,
+        "lng": -73.972466,
+        "phone": "518-251-2555",
+        "email": "",
+        "url": "http://www.adirondackallseasons.com/",
+        "enable_demo": false,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "US 27 Motorsports and Trailers",
+        "address": "5301 N, 5301 US-127",
+        "address2": "",
+        "city": "St Johns",
+        "state": "Michigan",
+        "zip": "48879",
+        "country": "United States",
+        "lat": 43.06353,
+        "lng": -84.564618,
+        "phone": "989-224-8874",
+        "email": "shane@us27motorsports.com",
+        "url": "www.us27motorsports.com",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Kennels",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Fogh Marine",
+        "address": "901 Oxford St.",
+        "address2": "",
+        "city": "Etobicoke",
+        "state": "ON",
+        "zip": "M8Z 5T1",
+        "country": "Canada",
+        "lat": 43.619186,
+        "lng": -79.514894,
+        "phone": "416-251-0384",
+        "email": "info@foghmarine.com",
+        "url": "https://foghmarine.com",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)"
+        ]
+    },
+    {
+        "name": "Falls Outdoor Company",
+        "address": "1727 Front St",
+        "address2": "",
+        "city": "Cuyahogo Falls",
+        "state": "OH",
+        "zip": "44221",
+        "country": "United States",
+        "lat": 41.132038,
+        "lng": -81.483799,
+        "phone": "330-537-9060",
+        "email": "fallsoutdoorcompany@gmail.com",
+        "url": "https://www.fallsoutdoorcompany.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Rentals",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Maumee River Outfitters",
+        "address": "24287 Front Street",
+        "address2": "",
+        "city": "Grand Rapids",
+        "state": "OH",
+        "zip": "43522",
+        "country": "United States",
+        "lat": 41.411784,
+        "lng": -83.86946,
+        "phone": "419-830-3077",
+        "email": "maumeekayak@gmail.com",
+        "url": "https://maumeetackle.net",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "GEAR Elkader",
+        "address": "201 N Main Street",
+        "address2": "",
+        "city": "Elkader",
+        "state": "IA",
+        "zip": "52043",
+        "country": "United States",
+        "lat": 42.855229,
+        "lng": -91.405542,
+        "phone": "563.245.2521",
+        "email": "",
+        "url": "www.gearelkader.com",
+        "enable_demo": false,
+        "categories": [
+            "Coolers",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Canoe & Kayak Rental & Sales",
+        "address": "2828 NY-28",
+        "address2": "",
+        "city": "Portlandville",
+        "state": "New York",
+        "zip": "13834",
+        "country": "United States",
+        "lat": 42.528527,
+        "lng": -74.968972,
+        "phone": "(607) 286-7349",
+        "email": "info@canoeandkayakrentals.com",
+        "url": "https://www.canoeandkayakrentals.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatwork",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Loan Star Pawn",
+        "address": "419 E Sam Rayburn Dr",
+        "address2": "",
+        "city": "Bonham",
+        "state": "Texas",
+        "zip": "75418",
+        "country": "United States",
+        "lat": 33.577374,
+        "lng": -96.175028,
+        "phone": "903-583-3442",
+        "email": "",
+        "url": "",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Northern Lights Trading Company",
+        "address": "8358 Huffline Lane Unit C",
+        "address2": "",
+        "city": "Bozeman",
+        "state": "Montana",
+        "zip": "59718",
+        "country": "United States",
+        "lat": 45.66962,
+        "lng": -111.151265,
+        "phone": "406-586-6029",
+        "email": "riverslakesoceans@gmail.com",
+        "url": "http://www.northernlightstrading.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Bobâ€™s Food City",
+        "address": "742 Highway 270 E",
+        "address2": "",
+        "city": "Mount Ida",
+        "state": "AR",
+        "zip": "71957",
+        "country": "United States",
+        "lat": 34.549877,
+        "lng": -93.624033,
+        "phone": "870-867-3551",
+        "email": "",
+        "url": "www.bobsfoodcity.com",
+        "enable_demo": false,
+        "categories": [
+            "Coolers",
+            "Kennels"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "402 South Stratford Rd.",
+        "address2": "",
+        "city": "Winston Salem",
+        "state": "NC",
+        "zip": "27103",
+        "country": "United States",
+        "lat": 36.091922,
+        "lng": -80.284501,
+        "phone": "336-727-0906",
+        "email": "gopc601@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "3501 Oleander Dr. (US 76)",
+        "address2": "",
+        "city": "Wilmington",
+        "state": "NC",
+        "zip": "28403",
+        "country": "United States",
+        "lat": 34.217568,
+        "lng": -77.904253,
+        "phone": "910-343-1648",
+        "email": "gopc901@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "1800 East Franklin St",
+        "address2": "",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "zip": "27514",
+        "country": "United States",
+        "lat": 35.936933,
+        "lng": -79.025085,
+        "phone": "919-933-6148",
+        "email": "gopc501@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "1556 Laskin Rd",
+        "address2": "",
+        "city": "Virginia Beach",
+        "state": "VA",
+        "zip": "23451",
+        "country": "United States",
+        "lat": 36.853739,
+        "lng": -76.015783,
+        "phone": "757-962-6618",
+        "email": "gopc701@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "2017 Cameron St.",
+        "address2": "",
+        "city": "Raleigh",
+        "state": "NC",
+        "zip": "27605",
+        "country": "United States",
+        "lat": 35.790529,
+        "lng": -78.659975,
+        "phone": "919-833-1741",
+        "email": "gopc401@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "530-D SE Greenville Blvd.",
+        "address2": "",
+        "city": "Greenville",
+        "state": "NC",
+        "zip": "27858",
+        "country": "United States",
+        "lat": 35.582209,
+        "lng": -77.371651,
+        "phone": "252-321-1308",
+        "email": "gopc101@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "1410 Westover Terrace",
+        "address2": "",
+        "city": "Greensboro",
+        "state": "NC",
+        "zip": "27408",
+        "country": "United States",
+        "lat": 36.091211,
+        "lng": -79.813982,
+        "phone": "336-851-1331",
+        "email": "gopc801@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "1125 Emmet St N",
+        "address2": "",
+        "city": "Charlottesville",
+        "state": "VA",
+        "zip": "22903",
+        "country": "United States",
+        "lat": 38.052568,
+        "lng": -78.501718,
+        "phone": "434-995-5669",
+        "email": "gopc201@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Great Outdoor Provision Co.",
+        "address": "4275 Park Rd.",
+        "address2": "",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28209",
+        "country": "United States",
+        "lat": 35.173307,
+        "lng": -80.849951,
+        "phone": "704-523-1089",
+        "email": "gopc301@greatoutdoorprovision.com",
+        "url": "https://greatoutdoorprovision.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Gull Lake Marine",
+        "address": "12485 East D Avenue",
+        "address2": "",
+        "city": "Richland",
+        "state": "Michigan",
+        "zip": "49083",
+        "country": "United States",
+        "lat": 42.37092,
+        "lng": -85.387323,
+        "phone": "269-200-2103",
+        "email": "lukes@gulllakemarine.com",
+        "url": "gulllakemarine.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "J4 Trailer",
+        "address": "5332 US 290",
+        "address2": "",
+        "city": "Fredericksburg",
+        "state": "Texas",
+        "zip": "78624",
+        "country": "United States",
+        "lat": 30.225737,
+        "lng": -98.809232,
+        "phone": "830-997-9969",
+        "email": "josh@j4fbg.com",
+        "url": "http://j4fbg.com",
+        "enable_demo": false,
+        "categories": [
+            "Coolers",
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "London Oaks Outfitters",
+        "address": "215 West Bandera Road Ste. 114-261",
+        "address2": "",
+        "city": "Boerne",
+        "state": "Texas",
+        "zip": "78006",
+        "country": "United States",
+        "lat": 29.779381,
+        "lng": -98.732243,
+        "phone": "",
+        "email": "",
+        "url": "https://www.londonoaksoutfitters.com",
+        "enable_demo": false,
+        "categories": [
+            "Coolers"
+        ]
+    },
+    {
+        "name": "Woods & Waters",
+        "address": "255 Broadway",
+        "address2": "",
+        "city": "Saranac Lake",
+        "state": "New York",
+        "zip": "12983",
+        "country": "United States",
+        "lat": 44.3334,
+        "lng": -74.139153,
+        "phone": "(518) 891-1110",
+        "email": "chrisg@adkwoodsandwaters.com",
+        "url": "",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Marsh & Bayou",
+        "address": "2600 Florida Street",
+        "address2": "",
+        "city": "Mandeville",
+        "state": "LA",
+        "zip": "70448",
+        "country": "United States",
+        "lat": 30.368166,
+        "lng": -90.072012,
+        "phone": "985-869-7335",
+        "email": "btiblier@hotmail.com",
+        "url": "https://marshandbayououtfitters.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)"
+        ]
+    },
+    {
+        "name": "Sports Haus",
+        "address": "1126 N. High St.",
+        "address2": "",
+        "city": "Bridgton",
+        "state": "Maine",
+        "zip": "4009",
+        "country": "United States",
+        "lat": 44.065113,
+        "lng": -70.816357,
+        "phone": "207-647-3000",
+        "email": "clint@sportshausski.com",
+        "url": "https://www.sportshausski.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Kentucky Lake Outdoors",
+        "address": "1071 Highway 68 East",
+        "address2": "",
+        "city": "Benton",
+        "state": "Kentucky",
+        "zip": "42025",
+        "country": "United States",
+        "lat": 36.9141,
+        "lng": -88.330236,
+        "phone": "270-395-0420",
+        "email": "",
+        "url": "http://www.kylakeoutdoors.com",
+        "enable_demo": false,
+        "categories": [
+            "Coolers",
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Yadkin River Kayaks",
+        "address": "106 E Main St.",
+        "address2": "",
+        "city": "Boonville",
+        "state": "North Carolina",
+        "zip": "27011",
+        "country": "United States",
+        "lat": 36.232379,
+        "lng": -80.707816,
+        "phone": "336-469-2188",
+        "email": "ccgolfcars@yahoo.com",
+        "url": "yadkinriverkayaks.com",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Trailhead Paddle Shack",
+        "address": "4-2148 Carling Avenue",
+        "address2": "",
+        "city": "Ottawa",
+        "state": "Ontario",
+        "zip": "K2A 1H1",
+        "country": "Canada",
+        "lat": 45.36939,
+        "lng": -75.768911,
+        "phone": "1+ 613-722-4229",
+        "email": "shop@trailheadpaddleshack.ca",
+        "url": "https://www.trailheadpaddleshack.ca/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Calleva",
+        "address": "19936 Fisher Ave",
+        "address2": "",
+        "city": "Poolesville",
+        "state": "Maryland",
+        "zip": "20837",
+        "country": "United States",
+        "lat": 39.145754,
+        "lng": -77.416339,
+        "phone": "301-216-1248",
+        "email": "gearguru@calleva.org",
+        "url": "https://potomacriversupply.com/",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Canoe Water Adventuring",
+        "address": "290 Quaker Lane Coldstream R R 2",
+        "address2": "",
+        "city": "Ilderton",
+        "state": "Ontario",
+        "zip": "N0M 2A0",
+        "country": "Canada",
+        "lat": 43.019385,
+        "lng": -81.501852,
+        "phone": "519-666-1477",
+        "email": "canoewater@execulink.com",
+        "url": "http://canoewater.ca/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Kayak City",
+        "address": "7812 Auburn Blvd",
+        "address2": "",
+        "city": "Citrus Heights",
+        "state": "California",
+        "zip": "95610",
+        "country": "United States",
+        "lat": 38.708138,
+        "lng": -121.289757,
+        "phone": "(916) 565-1400",
+        "email": "adv1800@gmail.com",
+        "url": "https://kayakcity.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Twin City Outdoors",
+        "address": "1900 Cypress St",
+        "address2": "",
+        "city": "West Monroe",
+        "state": "Louisiana",
+        "zip": "71291",
+        "country": "USA",
+        "lat": 32.51561,
+        "lng": -92.137774,
+        "phone": "318-325-0854",
+        "email": "",
+        "url": "http://www.twincityoutdoor.com/",
+        "enable_demo": false,
+        "categories": [
+            "Coolers",
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Wasatch Touring",
+        "address": "702 East 100 South",
+        "address2": "",
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "zip": "84102",
+        "country": "USA",
+        "lat": 40.766879,
+        "lng": -111.870692,
+        "phone": "801-359-9361",
+        "email": "dylan@wasatchtouring.com",
+        "url": "http://www.wasatchtouring.com/",
+        "enable_demo": false,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Western Canoeing & Kayaking Inc",
+        "address": "1717 Salton Rd",
+        "address2": "",
+        "city": "Abbotsford",
+        "state": "British Columbia",
+        "zip": "V2S 7P2",
+        "country": "Canada",
+        "lat": 49.033349,
+        "lng": -122.289346,
+        "phone": "604-853-9320",
+        "email": "ryan@westerncanoekayak.com",
+        "url": "http://www.westerncanoekayak.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Whitewater Express",
+        "address": "1000 Bay Avenue",
+        "address2": "",
+        "city": "Columbus",
+        "state": "Georgia",
+        "zip": "31901",
+        "country": "USA",
+        "lat": 32.464999,
+        "lng": -84.995608,
+        "phone": "404.325.5295",
+        "email": "daniell@whitewater.express",
+        "url": "https://www.whitewaterexpress.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Whitewater Warehouse, inc.",
+        "address": "104 Valley Street",
+        "address2": "",
+        "city": "Dayton",
+        "state": "Ohio",
+        "zip": "45404",
+        "country": "USA",
+        "lat": 39.769892,
+        "lng": -84.175597,
+        "phone": "(937) 222-7020",
+        "email": "wwwh@erinet.com",
+        "url": "http://www.kayakdayton.com",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Zoar Outdoor",
+        "address": "7 Main Street",
+        "address2": "",
+        "city": "Charlemont",
+        "state": "Massachusetts",
+        "zip": "1339",
+        "country": "USA",
+        "lat": 42.627768,
+        "lng": -72.88374,
+        "phone": "413-339-4010 +1004",
+        "email": "shop@zoaroutdoor.com",
+        "url": "http://www.zoaroutdoor.com/store",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "The Great Outdoors",
+        "address": "10 South Selig Avenue",
+        "address2": "",
+        "city": "Montrose",
+        "state": "Colorado",
+        "zip": "81401",
+        "country": "USA",
+        "lat": 38.477651,
+        "lng": -107.878723,
+        "phone": "970-249-4226",
+        "email": "",
+        "url": "",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "The Woodsman",
+        "address": "5609 Rogers Ave, Suite D",
+        "address2": "",
+        "city": "Fort Smith",
+        "state": "Arkansas",
+        "zip": "72903",
+        "country": "USA",
+        "lat": 35.366775,
+        "lng": -94.37512,
+        "phone": "479-452-3559",
+        "email": "woodsmancompany@gmail.com",
+        "url": "https://www.thewoodsmancompany.com/product-category/kayaking/kayaking-kayaks/?filtering=1&filter_product_brand=323",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Tie Specialties LLC",
+        "address": "2822 W Interstate 20",
+        "address2": "",
+        "city": "Odessa",
+        "state": "Texas",
+        "zip": "79763",
+        "country": "USA",
+        "lat": 31.816049,
+        "lng": -102.398311,
+        "phone": "(432) 332-2333",
+        "email": "",
+        "url": "http://www.tiespecialties.com/",
+        "enable_demo": false,
+        "categories": [
+            "Coolers"
+        ]
+    },
+    {
+        "name": "Tulsa Kayak",
+        "address": "411 South 1st Street",
+        "address2": "",
+        "city": "Jenks",
+        "state": "Oklahoma",
+        "zip": "74037",
+        "country": "USA",
+        "lat": 36.019402,
+        "lng": -95.968429,
+        "phone": "918-298-4577",
+        "email": "dave@okckayak.com",
+        "url": "http://www.okckayak.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Tumalo Creek Kayak & Canoe",
+        "address": "805 SW Industrial Way, Suite 6",
+        "address2": "",
+        "city": "Bend",
+        "state": "Oregon",
+        "zip": "97702",
+        "country": "USA",
+        "lat": 44.050032,
+        "lng": -121.318876,
+        "phone": "541-317-9407",
+        "email": "kelli@tumalocreek.com",
+        "url": "http://www.tumalocreek.com/",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "SWISH INC.",
+        "address": "970 CR 351",
+        "address2": "",
+        "city": "Stephenville",
+        "state": "Texas",
+        "zip": "76401",
+        "country": "USA",
+        "lat": 32.190844,
+        "lng": -98.266083,
+        "phone": "254-965-4505",
+        "email": "",
+        "url": "http://www.irrigationdistributors.com/swish.html",
+        "enable_demo": false,
+        "categories": [
+            "Coolers"
+        ]
+    },
+    {
+        "name": "Terrapin Outdoor Center",
+        "address": "4114 County Rd. 175",
+        "address2": "",
+        "city": "Piedmont",
+        "state": "Alabama",
+        "zip": "36272",
+        "country": "USA",
+        "lat": 33.980591,
+        "lng": -85.606618,
+        "phone": "256-447-6666",
+        "email": "terrapinoutdoorcenter@yahoo.com",
+        "url": "http://www.canoeshop.net/",
+        "enable_demo": true,
+        "categories": [
+            "Coolers",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "TG Canoes & Kayaks",
+        "address": "402 Pecan Park Dr.",
+        "address2": "",
+        "city": "San Marcos",
+        "state": "Texas",
+        "zip": "78666",
+        "country": "USA",
+        "lat": 29.860114,
+        "lng": -97.890062,
+        "phone": "512-353-3946",
+        "email": "tgcanoe@gmail.com",
+        "url": "http://www.tgcanoe.com",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "The Canoe House",
+        "address": "608 Broad Street",
+        "address2": "",
+        "city": "Rome",
+        "state": "Georgia",
+        "zip": "30161",
+        "country": "USA",
+        "lat": 34.256314,
+        "lng": -85.167824,
+        "phone": "706-237-7720",
+        "email": "thecanoehouse@gmail.com",
+        "url": "",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Roy's Bait and Tackle",
+        "address": "7613 South Padre Island Drive",
+        "address2": "",
+        "city": "Corpus Christi",
+        "state": "Texas",
+        "zip": "78412",
+        "country": "USA",
+        "lat": 27.689118,
+        "lng": -97.333477,
+        "phone": "361-992-2960",
+        "email": "rg@roysbait-tackle.com",
+        "url": "http://www.roysbait-tackle.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Rutabaga Paddlesports LLC",
+        "address": "2620 Rimrock Rd",
+        "address2": "",
+        "city": "Madison",
+        "state": "Wisconsin",
+        "zip": "53713",
+        "country": "United States",
+        "lat": 43.034292,
+        "lng": -89.381138,
+        "phone": "608-223-9300",
+        "email": "",
+        "url": "http://www.rutabaga.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Shades",
+        "address": "4830 Wharf Pkwy E",
+        "address2": "",
+        "city": "Orange Beach",
+        "state": "Alabama",
+        "zip": "36561",
+        "country": "USA",
+        "lat": 30.295031,
+        "lng": -87.628358,
+        "phone": "251.923.3131",
+        "email": "",
+        "url": "",
+        "enable_demo": false,
+        "categories": [
+            "Kennels"
+        ]
+    },
+    {
+        "name": "Ship to Shore Co",
+        "address": "4313 Lake Street",
+        "address2": "",
+        "city": "Lake Charles",
+        "state": "Louisiana",
+        "zip": "70605",
+        "country": "USA",
+        "lat": 30.179933,
+        "lng": -93.231929,
+        "phone": "337-474-0730",
+        "email": "sts@shiptpshore.com",
+        "url": "https://www.shiptoshoreco.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Sierra South Mountain Sports",
+        "address": "11300 Kernville Road",
+        "address2": "",
+        "city": "Kernville",
+        "state": "California",
+        "zip": "93238",
+        "country": "USA",
+        "lat": 35.7551,
+        "lng": -118.421011,
+        "phone": "760-376-3745",
+        "email": "moreinfo@sierrasouth.com",
+        "url": "http://www.sierrasouth.com",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Sportsman's Outfitter & Marine",
+        "address": "19700 S Peculiar Dr",
+        "address2": "",
+        "city": "Belton",
+        "state": "Missouri",
+        "zip": "64012",
+        "country": "USA",
+        "lat": 38.766787,
+        "lng": -94.491164,
+        "phone": "816.524.2277",
+        "email": "",
+        "url": "https://www.sportsmansoutfitter.com",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Phoenix Fishing Supply",
+        "address": "4810 N. 16th St",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip": "85016",
+        "country": "United States",
+        "lat": 33.507874,
+        "lng": -112.047986,
+        "phone": "602.263.7969",
+        "email": "phxfishing@mindspring.com",
+        "url": "http://www.mediabyjohn.com/fishing/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Rendezvous Riversports",
+        "address": "945 W. Broadway",
+        "address2": "",
+        "city": "Jackson",
+        "state": "Wyoming",
+        "zip": "83001",
+        "country": "USA",
+        "lat": 43.474645,
+        "lng": -110.783644,
+        "phone": "307-733-2471",
+        "email": "info@jacksonholekayak.com",
+        "url": "http://www.jacksonholekayak.com",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "River Basin Canoe & Kayak",
+        "address": "13038 Hwy 61 North",
+        "address2": "",
+        "city": "Burlington",
+        "state": "Iowa",
+        "zip": "52601",
+        "country": "USA",
+        "lat": 40.870955,
+        "lng": -91.162634,
+        "phone": "319-752-1857",
+        "email": "iowapaddler@yahoo.com",
+        "url": "http://www.canoeskayaks.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "River Sports Outfitters - Knoxville TN",
+        "address": "2918 Sutherland Avenue",
+        "address2": "",
+        "city": "Knoxville",
+        "state": "Tennessee",
+        "zip": "37919",
+        "country": "USA",
+        "lat": 35.952772,
+        "lng": -83.963238,
+        "phone": "(865) 523-0066",
+        "email": "info@riversportsoutfitters.com",
+        "url": "http://www.riversportsoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "RMI Outdoors",
+        "address": "1240 Broadway Street",
+        "address2": "",
+        "city": "Eureka",
+        "state": "California",
+        "zip": "95501",
+        "country": "USA",
+        "lat": 40.795204,
+        "lng": -124.176599,
+        "phone": "707.443.7029",
+        "email": "",
+        "url": "http://rmioutdoorseureka.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Rock/Creek Outfitters",
+        "address": "1530 Riverside Drive",
+        "address2": "",
+        "city": "Chattanooga",
+        "state": "Tennessee",
+        "zip": "37406",
+        "country": "USA",
+        "lat": 35.055353,
+        "lng": -85.280412,
+        "phone": "(888) 707-6708",
+        "email": "Rockcreek002@rockcreekoutfitters.com",
+        "url": "http://www.rockcreek.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Rocky Mountain Adventures, Inc.",
+        "address": "1117 N Hwy 287",
+        "address2": "",
+        "city": "Fort Collins",
+        "state": "Colorado",
+        "zip": "80524",
+        "country": "USA",
+        "lat": 40.625261,
+        "lng": -105.096253,
+        "phone": "970.493.4005",
+        "email": "info@ShopRMA.com",
+        "url": "https://www.shoprma.com",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Pack & Paddle",
+        "address": "601 E. Pinhook Rd",
+        "address2": "",
+        "city": "Lafayette",
+        "state": "Louisiana",
+        "zip": "70501",
+        "country": "USA",
+        "lat": 30.218561,
+        "lng": -92.00385,
+        "phone": "337-232-5854",
+        "email": "john@packpaddle.com",
+        "url": "http://www.packpaddle.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Nooga Paws",
+        "address": "313 Manufactureers Rd Ste 111",
+        "address2": "",
+        "city": "Chattanooga",
+        "state": "Tennessee",
+        "zip": "37405",
+        "country": "USA",
+        "lat": 35.062844,
+        "lng": -85.314412,
+        "phone": "423.531.6113",
+        "email": "",
+        "url": "https://noogapaws.com/#&panel1-1",
+        "enable_demo": false,
+        "categories": [
+            "Kennels"
+        ]
+    },
+    {
+        "name": "Northeast PA Kayak School",
+        "address": "123 Lehigh Drive",
+        "address2": "",
+        "city": "Lehighton",
+        "state": "Pennsylvania",
+        "zip": "18235",
+        "country": "USA",
+        "lat": 40.832718,
+        "lng": -75.70667,
+        "phone": "570-325-3432",
+        "email": "jerry@jtraft.com",
+        "url": "https://kayakschool.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals"
+        ]
+    },
+    {
+        "name": "Oak Orchard Canoe Kayak Experts",
+        "address": "1350 Empire Blvd. (Rte. 404)",
+        "address2": "",
+        "city": "Rochester",
+        "state": "New York",
+        "zip": "14609",
+        "country": "USA",
+        "lat": 43.175954,
+        "lng": -77.522193,
+        "phone": "585-288-5550",
+        "email": "oakorchardcanoe@rochester.rr.com",
+        "url": "http://oakorchardcanoe.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Oak Orchard Canoe Kayak Experts",
+        "address": "2133 Eagle Harbor Waterport Rd",
+        "address2": "",
+        "city": "Waterport",
+        "state": "New York",
+        "zip": "14571",
+        "country": "USA",
+        "lat": 43.311467,
+        "lng": -78.251014,
+        "phone": "585-682-4849",
+        "email": "oakorchardcanoe@rochester.rr.com",
+        "url": "http://oakorchardcanoe.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "OKC Kayak",
+        "address": "220 N. Western Avenue",
+        "address2": "",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "zip": "73106",
+        "country": "USA",
+        "lat": 35.469541,
+        "lng": -97.529928,
+        "phone": "405-235-2925",
+        "email": "dave@okckayak.com",
+        "url": "http://www.okckayak.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Outdoor Experience",
+        "address": "124 East Broad Street",
+        "address2": "",
+        "city": "Cookeville",
+        "state": "Tennessee",
+        "zip": "38501",
+        "country": "USA",
+        "lat": 36.163276,
+        "lng": -85.503183,
+        "phone": "931-526-HIKE (4453)",
+        "email": "heather@outdoorexperienceonline.com",
+        "url": "http://outdoorexperienceonline.com/",
+        "enable_demo": true,
+        "categories": [
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Outdoor New England | ONE",
+        "address": "376 Central Street",
+        "address2": "",
+        "city": "Franklin Falls",
+        "state": "New Hampshire",
+        "zip": "3235",
+        "country": "USA",
+        "lat": 43.444885,
+        "lng": -71.645677,
+        "phone": "603.671.7028",
+        "email": "marty@outdoornewengland.com",
+        "url": "http://www.outdoornewengland.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Rentals",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Mighty Mite",
+        "address": "123 Hempstead Ave",
+        "address2": "",
+        "city": "Rockville Centre",
+        "state": "New York",
+        "zip": "11570",
+        "country": "USA",
+        "lat": 40.663995,
+        "lng": -73.64394,
+        "phone": "888-528-3414",
+        "email": "",
+        "url": "http://www.mightymitedoggear.com/",
+        "enable_demo": false,
+        "categories": [
+            "Kennels"
+        ]
+    },
+    {
+        "name": "Mountain Sports",
+        "address": "2025 West Pioneer Parkway",
+        "address2": "",
+        "city": "Arlington",
+        "state": "Texas",
+        "zip": "76013",
+        "country": "USA",
+        "lat": 32.710014,
+        "lng": -97.141102,
+        "phone": "(817) 461-4503",
+        "email": "info@mountainsports.com",
+        "url": "http://www.mountainsports.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Nantahala Outdoor Center",
+        "address": "13077 Highway 19",
+        "address2": "",
+        "city": "West Bryson City",
+        "state": "North Carolina",
+        "zip": "28713-9114",
+        "country": "USA",
+        "lat": 35.331325,
+        "lng": -83.592996,
+        "phone": "(800) 232-7238",
+        "email": "nocstore@noc.com",
+        "url": "http://www.noc.com",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Nats Outdoor Sports",
+        "address": "1121 Wilkinson Trace",
+        "address2": "",
+        "city": "Bowling Green",
+        "state": "Kentucky",
+        "zip": "42103",
+        "country": "USA",
+        "lat": 36.970607,
+        "lng": -86.432728,
+        "phone": "270-842-6211",
+        "email": "",
+        "url": "http://www.natsoutdoor.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Marietta Adventure Co.",
+        "address": "219-B Second st.",
+        "address2": "",
+        "city": "Marietta",
+        "state": "Ohio",
+        "zip": "45750",
+        "country": "USA",
+        "lat": 39.414195,
+        "lng": -81.453862,
+        "phone": "740-538-0801",
+        "email": "mariettaadventurecompany@gmail.com",
+        "url": "http://www.mariettaadventurecompany.com",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Massey's Professional Outfitters",
+        "address": "509 North Carrollton Ave.",
+        "address2": "",
+        "city": "New Orleans",
+        "state": "Louisiana",
+        "zip": "70119",
+        "country": "USA",
+        "lat": 29.977985,
+        "lng": -90.097416,
+        "phone": "504-648-0292",
+        "email": "bobby.johnson@masseys.net",
+        "url": "http://www.masseysoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Massey's Professional Outfitters",
+        "address": "7519 Corporate Blvd",
+        "address2": "",
+        "city": "Baton Rouge",
+        "state": "Louisiana",
+        "zip": "70809",
+        "country": "USA",
+        "lat": 30.432559,
+        "lng": -91.111371,
+        "phone": "225-246-7100",
+        "email": "bobby.johnson@masseys.net",
+        "url": "http://www.masseysoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Massey's Professional Outfitters",
+        "address": "816 North Highway 190",
+        "address2": "",
+        "city": "Covington",
+        "state": "Louisiana",
+        "zip": "70433",
+        "country": "USA",
+        "lat": 30.475909,
+        "lng": -90.087036,
+        "phone": "985-809-7544",
+        "email": "bobby.johnson@masseys.net",
+        "url": "http://www.masseysoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Massey's Professional Outfitters",
+        "address": "3363 Severn Ave.",
+        "address2": "",
+        "city": "Metairie",
+        "state": "Louisiana",
+        "zip": "70002",
+        "country": "USA",
+        "lat": 30.010674,
+        "lng": -90.158386,
+        "phone": "504-885-1144",
+        "email": "bobby.johnson@masseys.net",
+        "url": "http://www.masseysoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Maumee Tackle",
+        "address": "107 W Wayne Street",
+        "address2": "",
+        "city": "Maumee",
+        "state": "Ohio",
+        "zip": "43537",
+        "country": "USA",
+        "lat": 41.56211,
+        "lng": -83.653982,
+        "phone": "419.893.3474",
+        "email": "",
+        "url": "https://www.maumeetackle.net",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Hudson's Appliance Centers",
+        "address": "454 Pearson Road",
+        "address2": "",
+        "city": "Paradise",
+        "state": "California",
+        "zip": "95969",
+        "country": "USA",
+        "lat": 39.751873,
+        "lng": -121.616766,
+        "phone": "(530) 877-6312",
+        "email": "",
+        "url": "http://www.hudsonsappliance.com",
+        "enable_demo": false,
+        "categories": [
+            "Coolers"
+        ]
+    },
+    {
+        "name": "Hudson's Appliance Centers",
+        "address": "2525 Dominic Drive Suite D",
+        "address2": "",
+        "city": "Chico",
+        "state": "California",
+        "zip": "95928",
+        "country": "USA",
+        "lat": 39.713249,
+        "lng": -121.787645,
+        "phone": "(530) 877-6312",
+        "email": "",
+        "url": "http://www.hudsonsappliance.com",
+        "enable_demo": false,
+        "categories": [
+            "Coolers"
+        ]
+    },
+    {
+        "name": "Kayak Academy",
+        "address": "11801 188th AVE SE",
+        "address2": "",
+        "city": "Issaquah",
+        "state": "Washington",
+        "zip": "98027",
+        "country": "USA",
+        "lat": 47.49655,
+        "lng": -122.090294,
+        "phone": "(206) 527-1825",
+        "email": "info@kayakacademy.com",
+        "url": "http://www.kayakacademy.com",
+        "enable_demo": true,
+        "categories": [
+            "Coolers",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Kayak Instruction",
+        "address": "6809 Miller Road",
+        "address2": "",
+        "city": "Rowlett",
+        "state": "Texas",
+        "zip": "75088",
+        "country": "USA",
+        "lat": 32.890965,
+        "lng": -96.535207,
+        "phone": "214 629 4794",
+        "email": "dave@kayakinstruct.com",
+        "url": "http://www.kayakinstruct.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Kayak Junky",
+        "address": "2995 Chemin Ste Marie",
+        "address2": "",
+        "city": "Mascouche",
+        "state": "QC",
+        "zip": "J7K 1N9",
+        "country": "Canada",
+        "lat": 45.747422,
+        "lng": -73.601583,
+        "phone": "(450) 474-2762",
+        "email": "info@kayakjunky.com",
+        "url": "http://kayakjunky.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Gradient Mountain Sports",
+        "address": "1390 Sheridan Avenue",
+        "address2": "",
+        "city": "Cody",
+        "state": "Wyoming",
+        "zip": "82414",
+        "country": "USA",
+        "lat": 44.525793,
+        "lng": -109.060637,
+        "phone": "307-587-4659",
+        "email": "andy@gradientmountainsports.com",
+        "url": "https://www.gradientmountainsports.net/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Half Hitch Tackle",
+        "address": "2206 Thomas Drive",
+        "address2": "",
+        "city": "Panama City Beach",
+        "state": "Florida",
+        "zip": "32408",
+        "country": "USA",
+        "lat": 30.16299,
+        "lng": -85.75565,
+        "phone": "850-234-2621",
+        "email": "pc@halfhitch.com",
+        "url": "http://www.halfhitch.com",
+        "enable_demo": false,
+        "categories": [
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Half Hitch Tackle",
+        "address": "621 Harbor Boulevard",
+        "address2": "",
+        "city": "Destin",
+        "state": "Florida",
+        "zip": "32541",
+        "country": "USA",
+        "lat": 30.392369,
+        "lng": -86.494087,
+        "phone": 8502342621,
+        "email": "pc@halfhitch.com",
+        "url": "http://www.halfhitch.com",
+        "enable_demo": false,
+        "categories": [
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Half Hitch Tackle",
+        "address": "8711 Navarre Pkwy",
+        "address2": "",
+        "city": "Navarre",
+        "state": "Florida",
+        "zip": "32566",
+        "country": "USA",
+        "lat": 30.401509,
+        "lng": -86.858224,
+        "phone": "850-939-9885",
+        "email": "pc@halfhitch.com",
+        "url": "http://www.halfhitch.com",
+        "enable_demo": false,
+        "categories": [
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Half-moon Outfitters",
+        "address": "15 E Broughton Street",
+        "address2": "",
+        "city": "Savannah",
+        "state": "Georgia",
+        "zip": "31401",
+        "country": "USA",
+        "lat": 32.078528,
+        "lng": -81.091302,
+        "phone": "912 201 9393",
+        "email": "savannah@halfmoonoutfitters.com",
+        "url": "http://halfmoonoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Half-moon Outfitters",
+        "address": "1420 Laurens Road",
+        "address2": "",
+        "city": "Greenville",
+        "state": "South Carolina",
+        "zip": "29607",
+        "country": "USA",
+        "lat": 34.843976,
+        "lng": -82.36498,
+        "phone": "864 233 4001",
+        "email": "greenville@halfmoonoutfitters.com",
+        "url": "http://halfmoonoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Half-moon Outfitters",
+        "address": "2912 Devine Street",
+        "address2": "",
+        "city": "Columbia",
+        "state": "South Carolina",
+        "zip": "29205",
+        "country": "USA",
+        "lat": 33.997483,
+        "lng": -81.000258,
+        "phone": "803 929 0771",
+        "email": "columbia@halfmoonoutfitters.com",
+        "url": "http://halfmoonoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Half-moon Outfitters",
+        "address": "2907 Washington Rd",
+        "address2": "Bldg 100, Suite 110",
+        "city": "Augusta",
+        "state": "Georgia",
+        "zip": "30909",
+        "country": "USA",
+        "lat": 33.51351,
+        "lng": -82.039181,
+        "phone": "706 738 1778",
+        "email": "augusta@halfmoonoutfitters.com",
+        "url": "http://halfmoonoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Half-moon Outfitters",
+        "address": "394 Prince Avenue",
+        "address2": "",
+        "city": "Athens",
+        "state": "Georgia",
+        "zip": "30601",
+        "country": "USA",
+        "lat": 33.960941,
+        "lng": -83.383905,
+        "phone": "706 548 7225",
+        "email": "athens@halfmoonoutfitters.com",
+        "url": "http://halfmoonoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Half-moon Outfitters",
+        "address": "94 Folly Road Blvd.",
+        "address2": "",
+        "city": "Charleston",
+        "state": "South Carolina",
+        "zip": "29407",
+        "country": "USA",
+        "lat": 32.77538,
+        "lng": -79.974976,
+        "phone": "843 556 6279",
+        "email": "southwindermere@halfmoonoutfitters.com",
+        "url": "http://halfmoonoutfitters.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Fishing Tackle Unlimited",
+        "address": "8933 Katy Freeway",
+        "address2": "",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77024-1604",
+        "country": "USA",
+        "lat": 29.783396,
+        "lng": -95.508953,
+        "phone": "(713) 827-7762",
+        "email": "emily@fishingtackleunlimted.com",
+        "url": "http://www.fishingtackleunlimited.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Fishing Tackle Unlimited",
+        "address": "12800 Gulf Fwy",
+        "address2": "",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77034",
+        "country": "USA",
+        "lat": 29.613129,
+        "lng": -95.216136,
+        "phone": "(281) 481-6838",
+        "email": "emily@fishingtackleunlimted.com",
+        "url": "http://www.fishingtackleunlimited.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Fluid Fun",
+        "address": "609 North Division St.",
+        "address2": "",
+        "city": "Bristol",
+        "state": "Indiana",
+        "zip": "46507",
+        "country": "USA",
+        "lat": 41.725712,
+        "lng": -85.819524,
+        "phone": "574-848-4279",
+        "email": "",
+        "url": "http://www.fluidfun.com",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Front Royal Canoe",
+        "address": "8567 Stonewall Jackson Highway",
+        "address2": "",
+        "city": "Front Royal",
+        "state": "Virginia",
+        "zip": "22630",
+        "country": "USA",
+        "lat": 38.889482,
+        "lng": -78.243187,
+        "phone": "(540) 635-5440",
+        "email": "info@frontroyalcanoe.com",
+        "url": "http://www.frontroyalcanoe.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Flex Drive (FD)"
+        ]
+    },
+    {
+        "name": "Frontenac Outfitters",
+        "address": "6674 Bedford Rd",
+        "address2": "",
+        "city": "Sydenham",
+        "state": "Ontario",
+        "zip": "K0H2T0",
+        "country": "Canada",
+        "lat": 44.492988,
+        "lng": -76.562436,
+        "phone": "613.376.6220",
+        "email": "info@frontenacoutfitters.com",
+        "url": "https://frontenacoutfitters.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Garland Animal Wellness",
+        "address": "6997 Highwater Cir",
+        "address2": "",
+        "city": "Edmond",
+        "state": "Oklahoma",
+        "zip": "73034",
+        "country": "USA",
+        "lat": 35.726175,
+        "lng": -97.435009,
+        "phone": "405-285-5430",
+        "email": "",
+        "url": "http://www.garlandanimalwellness",
+        "enable_demo": false,
+        "categories": [
+            "Kennels"
+        ]
+    },
+    {
+        "name": "Delaware Paddlesports",
+        "address": "17296 Coastal Hwy",
+        "address2": "",
+        "city": "Lewes",
+        "state": "Delaware",
+        "zip": "19958",
+        "country": "USA",
+        "lat": 38.748886,
+        "lng": -75.18094,
+        "phone": "302-645-7300",
+        "email": "info@delawarepaddlesports.com",
+        "url": "http://www.delawarepaddlesports.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Dukes Automotive LLC",
+        "address": "614 S Market St",
+        "address2": "",
+        "city": "Lancaster",
+        "state": "South Carolina",
+        "zip": "29720",
+        "country": "USA",
+        "lat": 34.712868,
+        "lng": -80.764179,
+        "phone": "803.313.2482",
+        "email": "josh@dukesrv.com",
+        "url": "https://www.dukesautomotivellc.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Elevation Sports",
+        "address": "3100 Robert C Byrd Dr.",
+        "address2": "",
+        "city": "Beckley",
+        "state": "West Virginia",
+        "zip": "25801-3721",
+        "country": "USA",
+        "lat": 37.778293,
+        "lng": -81.19389,
+        "phone": "304-255-2664",
+        "email": "elevationskateboards@gmail.com",
+        "url": "http://elevationskateboards.com/",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Colorado Kayak Supply",
+        "address": "327 E Main Street",
+        "address2": "",
+        "city": "Buena Vista",
+        "state": "Colorado",
+        "zip": "81211",
+        "country": "USA",
+        "lat": 38.842452,
+        "lng": -106.129563,
+        "phone": "888 265 2925",
+        "email": "brad@cksmainstreet.com",
+        "url": "",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Confluence Kayaks",
+        "address": "2301 7th Street",
+        "address2": "",
+        "city": "Denver",
+        "state": "Colorado",
+        "zip": "80211",
+        "country": "United States",
+        "lat": 39.752276,
+        "lng": -105.014535,
+        "phone": "303-433-3676",
+        "email": "shopinfo@confluencekayaks.com",
+        "url": "https://www.confluencekayaks.com",
+        "enable_demo": true,
+        "categories": [
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "CrawDaddy Outdoors",
+        "address": "207 E. Bremer Ave",
+        "address2": "",
+        "city": "Waverly",
+        "state": "Iowa",
+        "zip": "50677",
+        "country": "USA",
+        "lat": 42.726078,
+        "lng": -92.467755,
+        "phone": "(319) 352-9129",
+        "email": "info@crawdaddyoutdoors.com",
+        "url": "http://crawdaddyoutdoors.com",
+        "enable_demo": true,
+        "categories": [
+            "Coolers",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Caney Fork Outdoors",
+        "address": "1075 Wolf Creek Road",
+        "address2": "",
+        "city": "Silver Point",
+        "state": "Tennessee",
+        "zip": "38582",
+        "country": "United States",
+        "lat": 36.104175,
+        "lng": -85.820233,
+        "phone": "931-858-5222",
+        "email": "helpdesk@cfoutdoors.com",
+        "url": "https://cfoutdoors.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Kennels",
+            "Recreation",
+            "Rentals",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Canoe Kentucky",
+        "address": "7323 Peaks Mill Road",
+        "address2": "",
+        "city": "Frankfort",
+        "state": "Kentucky",
+        "zip": "40601",
+        "country": "USA",
+        "lat": 38.298124,
+        "lng": -84.812511,
+        "phone": "888 CANOE KY",
+        "email": "info@canoeky.com",
+        "url": "http://www.canoeky.com",
+        "enable_demo": true,
+        "categories": [
+            "Coolers",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Central Coast kayaks",
+        "address": "1879 Shell Beach Road",
+        "address2": "",
+        "city": "Pismo Beach",
+        "state": "California",
+        "zip": "93449",
+        "country": "USA",
+        "lat": 35.158746,
+        "lng": -120.675417,
+        "phone": "805-773-3500",
+        "email": "cckayaks805@gmail.com",
+        "url": "http://www.centralcoastkayaks.com",
+        "enable_demo": true,
+        "categories": [
+            "Fishing"
+        ]
+    },
+    {
+        "name": "Chipper and Coco",
+        "address": "148 Oakhurst Trail",
+        "address2": "",
+        "city": "Ridgeland",
+        "state": "Mississippi",
+        "zip": "39157",
+        "country": "USA",
+        "lat": 32.432501,
+        "lng": -90.167898,
+        "phone": "601.842.5200",
+        "email": "",
+        "url": "https://chipperandcoco.com/",
+        "enable_demo": false,
+        "categories": [
+            "Kennels"
+        ]
+    },
+    {
+        "name": "Clear Water Outfitting",
+        "address": "100 Pine Street",
+        "address2": "",
+        "city": "Clearwater",
+        "state": "Minnesota",
+        "zip": "55320",
+        "country": "USA",
+        "lat": 45.417985,
+        "lng": -94.045818,
+        "phone": "320-558-8123",
+        "email": "",
+        "url": "https://www.cwoutfitting.com/",
+        "enable_demo": false,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Bighorn Outdoor Specialists",
+        "address": "206 5th Street South",
+        "address2": "",
+        "city": "Great Falls",
+        "state": "Montana",
+        "zip": "59405",
+        "country": "USA",
+        "lat": 47.502712,
+        "lng": -111.299522,
+        "phone": "406-453-2841",
+        "email": "info@bighornoutdoorspecialists.com",
+        "url": "http://www.bighornoutdoorspecialists.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Bill Jackson's",
+        "address": "9501 U.S. Highway 19 North",
+        "address2": "",
+        "city": "Pinellas Park",
+        "state": "Florida",
+        "zip": "33782",
+        "country": "USA",
+        "lat": 27.859055,
+        "lng": -82.69673,
+        "phone": "727-576-4169",
+        "email": "adventure@billjacksons.com",
+        "url": "http://billjacksons.com/index.php",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Aquabatics Calgary",
+        "address": "3825 99th Street",
+        "address2": "",
+        "city": "Edmonton",
+        "state": "Alberta",
+        "zip": "T6E 6J1",
+        "country": "Canada",
+        "lat": 53.4726,
+        "lng": -113.485247,
+        "phone": "(780) 463-4892",
+        "email": "info@aquabaticsedmonton.com",
+        "url": "http://www.aquabaticscalgary.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Aquabatics Calgary",
+        "address": "8435 Bowfort Rd NW",
+        "address2": "#300",
+        "city": "Calgary",
+        "state": "Alberta",
+        "zip": "T3B 2V2",
+        "country": "Canada",
+        "lat": 51.084565,
+        "lng": -114.209603,
+        "phone": "1 403-288-9283",
+        "email": "info@aqoutdoors.com",
+        "url": "http://www.aquabaticscalgary.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Bear Mountain Outdoors",
+        "address": "4425 W Waco Dr",
+        "address2": "",
+        "city": "Waco",
+        "state": "Texas",
+        "zip": "76710",
+        "country": "USA",
+        "lat": 31.52674,
+        "lng": -97.173239,
+        "phone": "254-772-4327",
+        "email": "",
+        "url": "https://www.thebearmountainoutdoor.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Beaver Sports",
+        "address": "3480 College Rd",
+        "address2": "",
+        "city": "Fairbanks",
+        "state": "Alaska",
+        "zip": "99709",
+        "country": "USA",
+        "lat": 64.856852,
+        "lng": -147.807025,
+        "phone": "(907) 479-2494",
+        "email": "paddle@beaversports.com",
+        "url": "http://www.beaversports.com",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Big Wills Outfitters",
+        "address": "2939 Wesson Gap Rd",
+        "address2": "",
+        "city": "Attalla",
+        "state": "Alabama",
+        "zip": "35954",
+        "country": "USA",
+        "lat": 34.049875,
+        "lng": -86.084525,
+        "phone": "256-438-7172",
+        "email": "Kreekn@gmail.com",
+        "url": "https://bigwillsoutfitters.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation"
+        ]
+    },
+    {
+        "name": "Alpenglow Mountainsport",
+        "address": "2314 Bogus Basin Rd",
+        "address2": "",
+        "city": "Boise",
+        "state": "Idaho",
+        "zip": "83702",
+        "country": "USA",
+        "lat": 43.640525,
+        "lng": -116.207942,
+        "phone": "208-331-2628",
+        "email": "info@alpenglowidaho.com",
+        "url": "http://www.alpenglowidaho.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Alpine Boatworks",
+        "address": "3320 N Adrianne Way",
+        "address2": "",
+        "city": "Flagstaff",
+        "state": "Arizona",
+        "zip": "86004",
+        "country": "USA",
+        "lat": 35.22324,
+        "lng": -111.621753,
+        "phone": "303.250.5624",
+        "email": "",
+        "url": "https://www.alpineboatworks.com/",
+        "enable_demo": false,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Alpine Quest Sports",
+        "address": "34510 US Hwy 6",
+        "address2": "Unit A-1",
+        "city": "Edwards",
+        "state": "Colorado",
+        "zip": "81632",
+        "country": "USA",
+        "lat": 39.52979,
+        "lng": -107.781492,
+        "phone": "970-926-3867",
+        "email": "info@alpinequestsports.com",
+        "url": "http://www.alpinequestsports.com",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Alpine Quest Sports",
+        "address": "0062 County Road 135",
+        "address2": "",
+        "city": "Glenwood Springs",
+        "state": "Colorado",
+        "zip": "81601",
+        "country": "USA",
+        "lat": 39.562773,
+        "lng": -107.355095,
+        "phone": "(970) 928-9949",
+        "email": "info@alpinequestsports.com",
+        "url": "http://www.alpinequestsports.com/",
+        "enable_demo": true,
+        "categories": [
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Alpine Shop",
+        "address": "1102 E Broadway",
+        "address2": "",
+        "city": "Colombia",
+        "state": "Missouri",
+        "zip": "65201",
+        "country": "USA",
+        "lat": 38.951222,
+        "lng": -92.325298,
+        "phone": "573-817-2955",
+        "email": "",
+        "url": "http://www.alpineshop.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Alpine Shop",
+        "address": "440 N. Kirkwood",
+        "address2": "",
+        "city": "Kirkwood",
+        "state": "Missouri",
+        "zip": "63122",
+        "country": "USA",
+        "lat": 38.586044,
+        "lng": -90.405779,
+        "phone": "(314) 962-7715",
+        "email": "",
+        "url": "http://www.alpineshop.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Alpine Shop",
+        "address": "855 W. US Highway 50",
+        "address2": "",
+        "city": "O'Fallon",
+        "state": "Illinois",
+        "zip": "62269",
+        "country": "USA",
+        "lat": 38.591877,
+        "lng": -89.933291,
+        "phone": "618-726-6110",
+        "email": "",
+        "url": "http://www.alpineshop.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Appomattox River Company",
+        "address": "614 N. Main Street",
+        "address2": "",
+        "city": "Farmville",
+        "state": "Virginia",
+        "zip": "23901",
+        "country": "USA",
+        "lat": 37.308521,
+        "lng": -78.388172,
+        "phone": "434-392-6645",
+        "email": "sales@paddleva.com",
+        "url": "http://www.paddleva.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Fishing",
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "37 NORTH",
+        "address": "27 State Road",
+        "address2": "",
+        "city": "Newaygo",
+        "state": "Michigan",
+        "zip": "49377",
+        "country": "USA",
+        "lat": 43.414052,
+        "lng": -85.807431,
+        "phone": "231-652-2800",
+        "email": "the37north@gmail.com",
+        "url": "https://www.the37north.com/",
+        "enable_demo": false,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "4 Corners River Sports",
+        "address": "360 South Camino Del Rio",
+        "address2": "",
+        "city": "Durango",
+        "state": "Colorado",
+        "zip": "81301",
+        "country": "USA",
+        "lat": 37.251588,
+        "lng": -107.874745,
+        "phone": "800-426-7637",
+        "email": "info@riversports.com",
+        "url": "http://www.riversports.com",
+        "enable_demo": true,
+        "categories": [
+            "Blue Sky Boatworks",
+            "Coolers",
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    },
+    {
+        "name": "Ace Adventure Gear",
+        "address": "239 N Court St",
+        "address2": "",
+        "city": "Fayetteville",
+        "state": "West Virginia",
+        "zip": "25840",
+        "country": "USA",
+        "lat": 38.055413,
+        "lng": -81.105286,
+        "phone": "304-574-1900",
+        "email": "ace@aceraft.com",
+        "url": "http://www.aceadventuregear.com/",
+        "enable_demo": true,
+        "categories": [
+            "Fishing",
+            "Recreation",
+            "Whitewater"
+        ]
+    }
+]
