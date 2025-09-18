@@ -1,4 +1,64 @@
 [
+
+{
+"name": "Rock/Creek at the Ocoee River",
+"address": "1680 US-64",
+"address2": "",
+"city": "Benton",
+"state": "TN",
+"zip": "37307",
+"country": "United States",
+"phone": "(423) 338-1075",
+"email": "jamie@gearheadoutfitters.com",
+"url": "http://gearheadoutfitters.com",
+"enable_demo": true,
+"lat": 35.1059539,
+"lng": -84.662956,
+"categories": [
+"Whitewater",
+"Rentals"
+]
+},
+    {
+"name": "Kitty Hawk Kites",
+"address": "7517 S Virginia Dar Trail",
+"address2": "",
+"city": "Nags Head",
+"state": "NC",
+"zip": "27959",
+"country": "United States",
+"phone": "(252) 441-4112",
+"email": "shyde@kittyhawk.com",
+"url": "http://kittyhawk.com",
+"enable_demo": false,
+"lat": 35.9022547,
+        "lng": -75.6062581,
+"categories": [
+"Rentals",
+"Coolers"
+]
+},
+    {
+"name": "Dukes Outdoor",
+"address": "982 Anderson Rd. N.",
+"address2": "",
+"city": "Rock Hill",
+"state": "SC",
+"zip": "29730",
+"country": "United States",
+"phone": "(803) 980-0010",
+"email": "josh@dukesrv.com",
+"url": "https://dukesoutdoor.com",
+"enable_demo": false,
+        "lat": 34.9636275,
+        "lng": -80.9929244,
+"categories": [
+"Fishing",
+"Whitewater",
+"Recreation"
+]
+},
+    
     {
         "name": "Oak Tree Outfitters",
         "address": "4934 George Washington Memorial Hwy,",
