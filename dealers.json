@@ -1,5 +1,121 @@
 [
+{
+"name": "Half-Moon Outfitters",
+"address": "425 Coleman Blvd",
+"address2": "",
+"city": "Mt Pleasant",
+"state": "SC",
+"zip": "29464",
+"country": "United States",
+"phone": "843.881.9472",
+"email": "mtpleasant@halfmoonoutfitters.com",
+"url": "https://www.halfmoonoutfitters.com/",
+"enable_demo": false,
+        "lat": 32.7901464,
+        "lng": -79.8761574,
+"categories": [
+"Fishing",
+"Recreation"
+]
+},    
+{
+"name": "Half-Moon Outfitters",
+"address": "740 Winfield Dunn Pkwy",
+"address2": "",
+"city": "Sevierville",
+"state": "TN",
+"zip": "37876",
+"country": "United States",
+"phone": "865.320.2442",
+"email": "sevierville.tn@halfmoonoutfitters.com",
+"url": "https://www.halfmoonoutfitters.com/",
+"enable_demo": false,
+        "lat": 35.8827256,
+        "lng": -83.5735513,
+"categories": [
+"Fishing",
+"Recreation"
+]
+},   
+{
+"name": "Half-Moon Outfitters",
+"address": "2 N Palafox St",
+"address2": "",
+"city": "Pensacola",
+"state": "FL",
+"zip": "32502",
+"country": "United States",
+"phone": "850.426.8036",
+"email": "pensacola.fl@halfmoonoutfitters.com",
+"url": "https://www.halfmoonoutfitters.com/",
+"enable_demo": false,
+        "lat": 30.4132992,
+        "lng": -87.215128,
+"categories": [
+"Fishing",
+"Recreation"
+]
+},
+{
+"name": "Half-Moon Outfitters",
+"address": "119 Marion Street",
+"address2": "Summit At Fritz Farm Bldg 1050 Suite 150",
+"city": "Lexington",
+"state": "KY",
+"zip": "40517",
+"country": "United States",
+"phone": "859.413.0245",
+"email": "lexington.ky@halfmoonoutfitters.com",
+"url": "https://www.halfmoonoutfitters.com/",
+"enable_demo": false,
+        "lat": 37.977048,
+        "lng": -84.5271052,
+"categories": [
+"Fishing",
+"Recreation"
+]
+},
+{
+"name": "Half-Moon Outfitters",
+"address": "373 Carolina Green Parkway Building A",
+"address2": "Building A, Suite A101",
+"city": "Southern Pines",
+"state": "NC",
+"zip": "28387",
+"country": "United States",
+"phone": "910.690.1974",
+"email": "southernpines.nc@halfmoonoutfitters.com",
+"url": "https://www.halfmoonoutfitters.com/",
+"enable_demo": false,
+        "lat": 35.1667443,
+        "lng": -84.5271052,
+"categories": [
+"Fishing",
+"Recreation"
+]
+},  
+{
+"name": "Dukes Outdoor",
+"address": "982 Anderson Rd. N.",
+"address2": "",
+"city": "Rock Hill",
+"state": "SC",
+"zip": "29730",
+"country": "United States",
+"phone": "(803) 980-0010",
+"email": "josh@dukesrv.com",
+"url": "https://dukesoutdoor.com",
+"enable_demo": false,
+        "lat": 34.9636275,
+        "lng": -80.9929244,
+"categories": [
+"Fishing",
+"Whitewater",
+"Recreation"
+]
+},
 
+    
 {
 "name": "Rock/Creek at the Ocoee River",
 "address": "1680 US-64",
