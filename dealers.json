@@ -3035,7 +3035,7 @@
         ]
     },
     {
-        "name": "Half-moon Outfitters",
+        "name": "Half-Moon Outfitters",
         "address": "15 E Broughton Street",
         "address2": "",
         "city": "Savannah",
@@ -3049,11 +3049,12 @@
         "url": "http://halfmoonoutfitters.com",
         "enable_demo": true,
         "categories": [
-            "Recreation"
+            "Recreation",
+            "Fishing"
         ]
     },
     {
-        "name": "Half-moon Outfitters",
+        "name": "Half-Moon Outfitters",
         "address": "1420 Laurens Road",
         "address2": "",
         "city": "Greenville",
@@ -3067,11 +3068,12 @@
         "url": "http://halfmoonoutfitters.com",
         "enable_demo": true,
         "categories": [
-            "Recreation"
+            "Recreation",
+            "Fishing"
         ]
     },
     {
-        "name": "Half-moon Outfitters",
+        "name": "Half-Moon Outfitters",
         "address": "2912 Devine Street",
         "address2": "",
         "city": "Columbia",
@@ -3085,11 +3087,12 @@
         "url": "http://halfmoonoutfitters.com",
         "enable_demo": true,
         "categories": [
-            "Recreation"
+            "Recreation",
+            "Fishing"
         ]
     },
     {
-        "name": "Half-moon Outfitters",
+        "name": "Half-Moon Outfitters",
         "address": "2907 Washington Rd",
         "address2": "Bldg 100, Suite 110",
         "city": "Augusta",
@@ -3103,11 +3106,12 @@
         "url": "http://halfmoonoutfitters.com",
         "enable_demo": true,
         "categories": [
-            "Recreation"
+            "Recreation",
+            "Fishing"
         ]
     },
     {
-        "name": "Half-moon Outfitters",
+        "name": "Half-Moon Outfitters",
         "address": "394 Prince Avenue",
         "address2": "",
         "city": "Athens",
@@ -3121,11 +3125,12 @@
         "url": "http://halfmoonoutfitters.com",
         "enable_demo": true,
         "categories": [
-            "Recreation"
+            "Recreation",
+            "Fishing"
         ]
     },
     {
-        "name": "Half-moon Outfitters",
+        "name": "Half-Moon Outfitters",
         "address": "94 Folly Road Blvd.",
         "address2": "",
         "city": "Charleston",
@@ -3139,7 +3144,8 @@
         "url": "http://halfmoonoutfitters.com",
         "enable_demo": true,
         "categories": [
-            "Recreation"
+            "Recreation",
+            "Fishing"
         ]
     },
     {
