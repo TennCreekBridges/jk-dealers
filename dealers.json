@@ -787,24 +787,6 @@
         ]
     },
     {
-        "name": "Blue Ridge Paddling",
-        "address": "1001 S Industrial Dr.",
-        "address2": "",
-        "city": "Erwin",
-        "state": "TN",
-        "zip": "37650",
-        "country": "United States",
-        "lat": 36.125542,
-        "lng": -82.442481,
-        "phone": "423-388-6002",
-        "email": "mschmidt@blueridgepaddling.com",
-        "url": "http://www.blueridgepaddling.com/",
-        "enable_demo": true,
-        "categories": [
-            "Whitewater"
-        ]
-    },
-    {
         "name": "River Rock Outfitter",
         "address": "215 William St",
         "address2": "",
@@ -989,24 +971,6 @@
         "email": "masterdon416@gmail.com",
         "url": "http://www.highwaterhobbies.com/",
         "enable_demo": true,
-        "categories": [
-            "Whitewater"
-        ]
-    },
-    {
-        "name": "French Broad Outfitters",
-        "address": "704 Riverside Dr",
-        "address2": "",
-        "city": "Asheville",
-        "state": "NC",
-        "zip": "28801",
-        "country": "United States",
-        "lat": 35.608492,
-        "lng": -82.577533,
-        "phone": "(828) 505-7371",
-        "email": "frenchbroadoutfitters@gmail.com",
-        "url": "https://www.frenchbroadoutfitters.com/",
-        "enable_demo": false,
         "categories": [
             "Whitewater"
         ]
