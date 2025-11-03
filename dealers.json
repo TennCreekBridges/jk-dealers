@@ -114,7 +114,28 @@
 "Recreation"
 ]
 },
-
+{
+"name": "Trusty Sail and Paddle",
+"address": "5300 Hwy 70 W",
+"address2": "",
+"city": "Morehead City",
+"state": "NC",
+"zip": "28557",
+"country": "United States",
+"phone": "(252) 499-9911",
+"email": "trustywatersports@gmail.com",
+"url": "https://trustywsailandpaddle.com",
+"enable_demo": true,
+        "lat": 34.7416789,
+        "lng": -76.8168739
+"categories": [
+"Fishing",
+"Rentals",
+"Recreation",
+"Coolers",
+"Blue Sky Boatworks"
+]
+},
     
 {
 "name": "Rock/Creek at the Ocoee River",
@@ -2257,24 +2278,6 @@
         ]
     },
     {
-        "name": "Shades",
-        "address": "4830 Wharf Pkwy E",
-        "address2": "",
-        "city": "Orange Beach",
-        "state": "Alabama",
-        "zip": "36561",
-        "country": "USA",
-        "lat": 30.295031,
-        "lng": -87.628358,
-        "phone": "251.923.3131",
-        "email": "",
-        "url": "",
-        "enable_demo": false,
-        "categories": [
-            "Kennels"
-        ]
-    },
-    {
         "name": "Ship to Shore Co",
         "address": "4313 Lake Street",
         "address2": "",
@@ -2944,60 +2947,7 @@
             "Whitewater"
         ]
     },
-    {
-        "name": "Half Hitch Tackle",
-        "address": "2206 Thomas Drive",
-        "address2": "",
-        "city": "Panama City Beach",
-        "state": "Florida",
-        "zip": "32408",
-        "country": "USA",
-        "lat": 30.16299,
-        "lng": -85.75565,
-        "phone": "850-234-2621",
-        "email": "pc@halfhitch.com",
-        "url": "http://www.halfhitch.com",
-        "enable_demo": false,
-        "categories": [
-            "Fishing"
-        ]
-    },
-    {
-        "name": "Half Hitch Tackle",
-        "address": "621 Harbor Boulevard",
-        "address2": "",
-        "city": "Destin",
-        "state": "Florida",
-        "zip": "32541",
-        "country": "USA",
-        "lat": 30.392369,
-        "lng": -86.494087,
-        "phone": 8502342621,
-        "email": "pc@halfhitch.com",
-        "url": "http://www.halfhitch.com",
-        "enable_demo": false,
-        "categories": [
-            "Fishing"
-        ]
-    },
-    {
-        "name": "Half Hitch Tackle",
-        "address": "8711 Navarre Pkwy",
-        "address2": "",
-        "city": "Navarre",
-        "state": "Florida",
-        "zip": "32566",
-        "country": "USA",
-        "lat": 30.401509,
-        "lng": -86.858224,
-        "phone": "850-939-9885",
-        "email": "pc@halfhitch.com",
-        "url": "http://www.halfhitch.com",
-        "enable_demo": false,
-        "categories": [
-            "Fishing"
-        ]
-    },
+
     {
         "name": "Half-Moon Outfitters",
         "address": "15 E Broughton Street",
