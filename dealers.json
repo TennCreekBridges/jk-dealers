@@ -88,32 +88,12 @@
 "url": "https://www.halfmoonoutfitters.com/",
 "enable_demo": false,
         "lat": 35.1667443,
-        "lng": -84.5271052,
+        "lng": -79.4193328,
 "categories": [
 "Fishing",
 "Recreation"
 ]
 },  
-{
-"name": "Dukes Outdoor",
-"address": "982 Anderson Rd. N.",
-"address2": "",
-"city": "Rock Hill",
-"state": "SC",
-"zip": "29730",
-"country": "United States",
-"phone": "(803) 980-0010",
-"email": "josh@dukesrv.com",
-"url": "https://dukesoutdoor.com",
-"enable_demo": false,
-        "lat": 34.9636275,
-        "lng": -80.9929244,
-"categories": [
-"Fishing",
-"Whitewater",
-"Recreation"
-]
-},
 {
 "name": "Trusty Sail and Paddle",
 "address": "5300 Hwy 70 W",
