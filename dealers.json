@@ -426,24 +426,24 @@
             "Rentals"
         ]
     },
-    {
-        "name": "Pagaie Quebec",
-        "address": "3180 CH Ste-Foy",
-        "address2": "",
-        "city": "Quebec",
-        "state": "QB",
-        "zip": "G1X 1R4",
-        "country": "Canada",
-        "lat": 46.773887,
-        "lng": -71.31528,
-        "phone": -10078,
-        "email": "patriceboulay@pagaiequebec.com",
-        "url": "https://www.pagaiequebec.ca/",
-        "enable_demo": false,
-        "categories": [
-            "Whitewater"
-        ]
-    },
+{
+    "name": "Pagaie Quebec",
+    "address": "3180 CH Ste-Foy",
+    "address2": "",
+    "city": "Quebec",
+    "state": "QB",
+    "zip": "G1X 1R4",
+    "country": "Canada",
+    "lat": 46.773887,
+    "lng": -71.31528,
+    "phone": "",
+    "email": "patriceboulay@pagaiequebec.com",
+    "url": "https://www.pagaiequebec.ca/",
+    "enable_demo": false,
+    "categories": [
+        "Whitewater"
+    ]
+},
     {
         "name": "Happy Hippy Outfitters",
         "address": "3133 North Ashley Street",
@@ -1118,27 +1118,27 @@
             "Rentals"
         ]
     },
-    {
-        "name": "Venice Outdoor Sports",
-        "address": "1562 S Tamiami Trail",
-        "address2": "",
-        "city": "South Venice",
-        "state": "FL",
-        "zip": "34239",
-        "country": "United States",
-        "lat": 27.07585,
-        "lng": -82.427326,
-        "phone": 9418410719,
-        "email": "info@veniceoutdoorssports.com",
-        "url": "https://www.veniceoutdoorsports.com",
-        "enable_demo": false,
-        "categories": [
-            "Fishing",
-            "Flex Drive (FD)",
-            "Recreation",
-            "Rentals"
-        ]
-    },
+{
+    "name": "Venice Outdoor Sports",
+    "address": "1562 S Tamiami Trail",
+    "address2": "",
+    "city": "South Venice",
+    "state": "FL",
+    "zip": "34239",
+    "country": "United States",
+    "lat": 27.07585,
+    "lng": -82.427326,
+    "phone": "9418410719",
+    "email": "info@veniceoutdoorssports.com",
+    "url": "https://www.veniceoutdoorsports.com",
+    "enable_demo": false,
+    "categories": [
+        "Fishing",
+        "Flex Drive (FD)",
+        "Recreation",
+        "Rentals"
+    ]
+},
     {
         "name": "Country Smokehouse",
         "address": "3294 VanDyke Rd.",
@@ -1474,25 +1474,25 @@
             "Whitewater"
         ]
     },
-    {
-        "name": "Bobâ€™s Food City",
-        "address": "742 Highway 270 E",
-        "address2": "",
-        "city": "Mount Ida",
-        "state": "AR",
-        "zip": "71957",
-        "country": "United States",
-        "lat": 34.549877,
-        "lng": -93.624033,
-        "phone": "870-867-3551",
-        "email": "",
-        "url": "www.bobsfoodcity.com",
-        "enable_demo": false,
-        "categories": [
-            "Coolers",
-            "Kennels"
-        ]
-    },
+{
+    "name": "Bob's Food City",
+    "address": "742 Highway 270 E",
+    "address2": "",
+    "city": "Mount Ida",
+    "state": "AR",
+    "zip": "71957",
+    "country": "United States",
+    "lat": 34.549877,
+    "lng": -93.624033,
+    "phone": "870-867-3551",
+    "email": "",
+    "url": "www.bobsfoodcity.com",
+    "enable_demo": false,
+    "categories": [
+        "Coolers",
+        "Kennels"
+    ]
+},
     {
         "name": "Great Outdoor Provision Co.",
         "address": "402 South Stratford Rd.",
