@@ -1939,24 +1939,6 @@
         ]
     },
     {
-        "name": "Wasatch Touring",
-        "address": "702 East 100 South",
-        "address2": "",
-        "city": "Salt Lake City",
-        "state": "Utah",
-        "zip": "84102",
-        "country": "USA",
-        "lat": 40.766879,
-        "lng": -111.870692,
-        "phone": "801-359-9361",
-        "email": "dylan@wasatchtouring.com",
-        "url": "http://www.wasatchtouring.com/",
-        "enable_demo": false,
-        "categories": [
-            "Whitewater"
-        ]
-    },
-    {
         "name": "Western Canoeing & Kayaking Inc",
         "address": "1717 Salton Rd",
         "address2": "",
