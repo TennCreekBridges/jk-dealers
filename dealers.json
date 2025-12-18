@@ -1,4 +1,24 @@
 [
+        
+{
+"name": "Paddlerscove",
+"address": "218 NJ-31",
+"address2": "",
+"city": "Washington",
+"state": "NJ",
+"zip": "07882",
+"country": "United States",
+"phone": "908.835.0624",
+"email": "jack@paddlerscove.com",
+"url": "https://paddlerscove.com/",
+"enable_demo": false,
+        "lat": 40.758433,
+        "lng": -74.979338,
+"categories": [
+"Fishing"
+]
+},  
+        
 {
 "name": "Half-Moon Outfitters",
 "address": "425 Coleman Blvd",
