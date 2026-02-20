@@ -1,6 +1,29 @@
 [
 
 {
+"name": "Bill's Extreme Adventure",
+"address": "1301 First Avenue",
+"address2": "",
+"city": "Marionville",
+"state": "MO",
+"zip": "65705-7313",
+"country": "United States",
+"phone": "417.466.8989",
+"email": "info@billspaintballandlasertag.com",
+"url": "https://www.billspaintballandlasertag.com/",
+"enable_demo": true,
+        "lat": 36.976931,
+        "lng": -93.615674,
+"categories": [
+"Fishing",
+"Recreation",
+"Rentals"
+]
+},  
+
+
+        
+{
 "name": "Chequamegon Adventure Company",
 "address": "1301 First Avenue",
 "address2": "",
