@@ -591,24 +591,6 @@
         ]
     },
     {
-        "name": "Jake's Bait & Tackle",
-        "address": "234 Ezra Ln #3",
-        "address2": "",
-        "city": "Winchester",
-        "state": "VA",
-        "zip": "22603",
-        "country": "United States",
-        "lat": 39.217481,
-        "lng": -78.13052,
-        "phone": "540-723-4621",
-        "email": "info@jakesbaitandtackle.com",
-        "url": "https://jakesbaitandtackle.com/",
-        "enable_demo": false,
-        "categories": [
-            "Fishing"
-        ]
-    },
-    {
         "name": "Ron Hoover RV and Marine",
         "address": "6512 US-180",
         "address2": "",
