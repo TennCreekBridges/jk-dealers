@@ -1,6 +1,27 @@
 [
 
 {
+"name": "Hammerhead Kayaks",
+"address": "6670 Theodore Dawes Rd",
+"address2": "",
+"city": "Theodore",
+"state": "AL",
+"zip": "36582",
+"country": "United States",
+"phone": "251-533-1830",
+"email": "hammerheadkayaks@gmail.com",
+"url": "www.hammerheadkayaks.net",
+"enable_demo": true,
+        "lat": 30.5586645,
+        "lng": -88.1966982,
+"categories": [
+"Fishing",
+"Recreation"
+
+]
+}, 
+        
+{
 "name": "Deep South Outfitters",
 "address": "4700 Cahaba River Rd",
 "address2": "",
