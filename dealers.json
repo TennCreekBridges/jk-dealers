@@ -1,6 +1,46 @@
 [
 
 {
+"name": "Deep South Outfitters",
+"address": "4700 Cahaba River Rd",
+"address2": "",
+"city": "Birmingham",
+"state": "AL",
+"zip": "35243",
+"country": "United States",
+"phone": "205-969-3868",
+"email": "deepsouthflyshop@bellsouth.net",
+"url": "www.fishdso.com",
+"enable_demo": true,
+        "lat": 33.4328331,
+        "lng": -86.7381879,
+"categories": [
+"Fishing"
+
+]
+},  
+
+{
+"name": "US National Whitewater Center",
+"address": "5000 Whitewater Center Pkwy",
+"address2": "",
+"city": "Charlotte",
+"state": "NC",
+"zip": "28214",
+"country": "United States",
+"phone": "704.391.3900",
+"email": "info@whitewater.org",
+"url": "www.whitewater.org",
+"enable_demo": true,
+        "lat": 33.4328331,
+        "lng": -86.7381879,
+"categories": [
+"Whitewater"
+
+]
+},  
+        
+{
 "name": "Bill's Extreme Adventure",
 "address": "20107 Lawrence 1247",
 "address2": "",
@@ -20,8 +60,6 @@
 "Rentals"
 ]
 },  
-
-
         
 {
 "name": "Chequamegon Adventure Company",
@@ -181,14 +219,14 @@
 },
     
 {
-"name": "Rock/Creek at the Ocoee River",
+"name": "Gearhead at the Ocoee River",
 "address": "1680 US-64",
 "address2": "",
 "city": "Benton",
 "state": "TN",
 "zip": "37307",
 "country": "United States",
-"phone": "(423) 338-1075",
+"phone": "423-338-1075 ext. 2",
 "email": "jamie@gearheadoutfitters.com",
 "url": "http://gearheadoutfitters.com",
 "enable_demo": true,
@@ -216,26 +254,6 @@
 "categories": [
 "Rentals",
 "Coolers"
-]
-},
-    {
-"name": "Dukes Outdoor",
-"address": "982 Anderson Rd. N.",
-"address2": "",
-"city": "Rock Hill",
-"state": "SC",
-"zip": "29730",
-"country": "United States",
-"phone": "(803) 980-0010",
-"email": "josh@dukesrv.com",
-"url": "https://dukesoutdoor.com",
-"enable_demo": false,
-        "lat": 34.9636275,
-        "lng": -80.9929244,
-"categories": [
-"Fishing",
-"Whitewater",
-"Recreation"
 ]
 },
     
@@ -271,8 +289,8 @@
         "country": "United States",
         "lat": 34.512203,
         "lng": -85.622694,
-        "phone": "",
-        "email": "",
+        "phone": "256-516-2016",
+        "email": "downhillkayaking@gmail.com",
         "url": "https://downhillkayaking.wordpress.com/",
         "enable_demo": false,
         "categories": [
@@ -500,7 +518,7 @@
         "lng": -83.292082,
         "phone": "(229) 561-6123",
         "email": "happyhippyoutfitters@gmail.com",
-        "url": "",
+        "url": "https://www.happyhippyoutfitters.com/",
         "enable_demo": true,
         "categories": [
             "Blue Sky Boatwork",
@@ -669,28 +687,6 @@
             "Whitewater"
         ]
     },
-    {
-        "name": "Kayak and More",
-        "address": "7910 KY-259",
-        "address2": "",
-        "city": "Bee Spring",
-        "state": "KY",
-        "zip": "42207",
-        "country": "United States",
-        "lat": 37.28802,
-        "lng": -86.279397,
-        "phone": "270-286-7001",
-        "email": "kim@kayaksandmoreonline.com",
-        "url": "http://kayaksandmoreonline.com/",
-        "enable_demo": true,
-        "categories": [
-            "Blue Sky Boatworks",
-            "Coolers",
-            "Fishing",
-            "Flex Drive (FD)",
-            "Recreation"
-        ]
-    },
     
     {
         "name": "Festive Water",
@@ -811,7 +807,9 @@
         "enable_demo": true,
         "categories": [
             "Fishing",
-            "Flex Drive (FD)"
+            "Flex Drive (FD)",
+            "Recreation",
+            "Whitewater"
         ]
     },
     {
@@ -928,25 +926,6 @@
     },
     
     {
-        "name": "JD Outdoors",
-        "address": "2437 SW 67th Ave",
-        "address2": "",
-        "city": "Maimi",
-        "state": "FL",
-        "zip": "33155",
-        "country": "United States",
-        "lat": 25.747578,
-        "lng": -80.303302,
-        "phone": "",
-        "email": "jesus@estradaroofing.biz",
-        "url": "",
-        "enable_demo": false,
-        "categories": [
-            "Fishing",
-            "Flex Drive (FD)"
-        ]
-    },
-    {
         "name": "KayakHub",
         "address": "13807 W Hillsborough Ave",
         "address2": "",
@@ -1008,48 +987,6 @@
             "Rentals"
         ]
     },
-    {
-        "name": "Wander North Georgia dba North Georgia Social Club",
-        "address": "87 N Main St",
-        "address2": "",
-        "city": "Clayton",
-        "state": "GA",
-        "zip": "30525-4263",
-        "country": "United States",
-        "lat": 34.879562,
-        "lng": -83.40092,
-        "phone": "770-750-4470",
-        "email": "info@wandernorthgeorgia.com",
-        "url": "https://wandernorthgeorgia.com/",
-        "enable_demo": false,
-        "categories": [
-            "Fishing",
-            "Flex Drive (FD)",
-            "Recreation",
-            "Rentals"
-        ]
-    },
-{
-    "name": "Venice Outdoor Sports",
-    "address": "1562 S Tamiami Trail",
-    "address2": "",
-    "city": "South Venice",
-    "state": "FL",
-    "zip": "34239",
-    "country": "United States",
-    "lat": 27.07585,
-    "lng": -82.427326,
-    "phone": "9418410719",
-    "email": "info@veniceoutdoorssports.com",
-    "url": "https://www.veniceoutdoorsports.com",
-    "enable_demo": false,
-    "categories": [
-        "Fishing",
-        "Flex Drive (FD)",
-        "Recreation",
-        "Rentals"
-    ]
-},
    
     {
         "name": "ECO Fishing Shop",
@@ -1501,46 +1438,6 @@
             "Flex Drive (FD)"
         ]
     },
-   
-    {
-        "name": "Kentucky Lake Outdoors",
-        "address": "1071 Highway 68 East",
-        "address2": "",
-        "city": "Benton",
-        "state": "Kentucky",
-        "zip": "42025",
-        "country": "United States",
-        "lat": 36.9141,
-        "lng": -88.330236,
-        "phone": "270-395-0420",
-        "email": "",
-        "url": "http://www.kylakeoutdoors.com",
-        "enable_demo": false,
-        "categories": [
-            "Coolers",
-            "Fishing",
-            "Recreation"
-        ]
-    },
-    {
-        "name": "Yadkin River Kayaks",
-        "address": "106 E Main St.",
-        "address2": "",
-        "city": "Boonville",
-        "state": "North Carolina",
-        "zip": "27011",
-        "country": "United States",
-        "lat": 36.232379,
-        "lng": -80.707816,
-        "phone": "336-469-2188",
-        "email": "ccgolfcars@yahoo.com",
-        "url": "yadkinriverkayaks.com",
-        "enable_demo": true,
-        "categories": [
-            "Fishing",
-            "Recreation"
-        ]
-    },
     {
         "name": "Trailhead Paddle Shack",
         "address": "4-2148 Carling Avenue",
@@ -1872,7 +1769,7 @@
         "lng": -85.167824,
         "phone": "706-237-7720",
         "email": "thecanoehouse@gmail.com",
-        "url": "",
+        "url": "https://thecanoehouserome.com/",
         "enable_demo": true,
         "categories": [
             "Fishing",
@@ -2039,7 +1936,7 @@
         ]
     },
     {
-        "name": "Rock/Creek Outfitters",
+        "name": "Gearhead Outfitters",
         "address": "1530 Riverside Drive",
         "address2": "",
         "city": "Chattanooga",
@@ -2048,9 +1945,9 @@
         "country": "USA",
         "lat": 35.055353,
         "lng": -85.280412,
-        "phone": "(888) 707-6708",
-        "email": "Rockcreek002@rockcreekoutfitters.com",
-        "url": "http://www.rockcreek.com/",
+        "phone": "423-265-1836",
+        "email": "riverside@gearheadoutfitters.com",
+        "url": "http://gearheadoutfitters.com",
         "enable_demo": true,
         "categories": [
             "Blue Sky Boatworks",
@@ -2098,25 +1995,7 @@
             "Recreation"
         ]
     },
-    {
-        "name": "Nooga Paws",
-        "address": "313 Manufactureers Rd Ste 111",
-        "address2": "",
-        "city": "Chattanooga",
-        "state": "Tennessee",
-        "zip": "37405",
-        "country": "USA",
-        "lat": 35.062844,
-        "lng": -85.314412,
-        "phone": "423.531.6113",
-        "email": "",
-        "url": "https://noogapaws.com/#&panel1-1",
-        "enable_demo": false,
-        "categories": [
-            "Kennels"
-        ]
-    },
-   
+    
     {
         "name": "Oak Orchard Canoe Kayak Experts",
         "address": "1350 Empire Blvd. (Rte. 404)",
@@ -2294,7 +2173,7 @@
         "lat": 36.970607,
         "lng": -86.432728,
         "phone": "270-842-6211",
-        "email": "",
+        "email": "info@natsoutdoor.com",
         "url": "http://www.natsoutdoor.com/",
         "enable_demo": false,
         "categories": [
@@ -2692,25 +2571,6 @@
         ]
     },
     {
-        "name": "Front Royal Canoe",
-        "address": "8567 Stonewall Jackson Highway",
-        "address2": "",
-        "city": "Front Royal",
-        "state": "Virginia",
-        "zip": "22630",
-        "country": "USA",
-        "lat": 38.889482,
-        "lng": -78.243187,
-        "phone": "(540) 635-5440",
-        "email": "info@frontroyalcanoe.com",
-        "url": "http://www.frontroyalcanoe.com/",
-        "enable_demo": true,
-        "categories": [
-            "Fishing",
-            "Flex Drive (FD)"
-        ]
-    },
-    {
         "name": "Frontenac Outfitters",
         "address": "6674 Bedford Rd",
         "address2": "",
@@ -2771,28 +2631,7 @@
             "Whitewater"
         ]
     },
-    {
-        "name": "Dukes Automotive LLC",
-        "address": "614 S Market St",
-        "address2": "",
-        "city": "Lancaster",
-        "state": "South Carolina",
-        "zip": "29720",
-        "country": "USA",
-        "lat": 34.712868,
-        "lng": -80.764179,
-        "phone": "803.313.2482",
-        "email": "josh@dukesrv.com",
-        "url": "https://www.dukesautomotivellc.com/",
-        "enable_demo": true,
-        "categories": [
-            "Blue Sky Boatworks",
-            "Fishing",
-            "Flex Drive (FD)",
-            "Recreation",
-            "Whitewater"
-        ]
-    },
+   
     {
         "name": "Elevation Sports",
         "address": "3100 Robert C Byrd Dr.",
@@ -3074,25 +2913,6 @@
             "Fishing",
             "Recreation",
             "Whitewater"
-        ]
-    },
-    {
-        "name": "Big Wills Outfitters",
-        "address": "2939 Wesson Gap Rd",
-        "address2": "",
-        "city": "Attalla",
-        "state": "Alabama",
-        "zip": "35954",
-        "country": "USA",
-        "lat": 34.049875,
-        "lng": -86.084525,
-        "phone": "256-438-7172",
-        "email": "Kreekn@gmail.com",
-        "url": "https://bigwillsoutfitters.com/",
-        "enable_demo": true,
-        "categories": [
-            "Fishing",
-            "Recreation"
         ]
     },
     {
