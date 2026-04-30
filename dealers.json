@@ -1859,24 +1859,7 @@
             "Recreation"
         ]
     },
-    {
-        "name": "Sierra South Mountain Sports",
-        "address": "11300 Kernville Road",
-        "address2": "",
-        "city": "Kernville",
-        "state": "California",
-        "zip": "93238",
-        "country": "USA",
-        "lat": 35.7551,
-        "lng": -118.421011,
-        "phone": "760-376-3745",
-        "email": "moreinfo@sierrasouth.com",
-        "url": "http://www.sierrasouth.com",
-        "enable_demo": true,
-        "categories": [
-            "Whitewater"
-        ]
-    },
+    
     
     {
         "name": "Phoenix Fishing Supply",
@@ -2779,24 +2762,7 @@
             "Whitewater"
         ]
     },
-    {
-        "name": "Central Coast kayaks",
-        "address": "1879 Shell Beach Road",
-        "address2": "",
-        "city": "Pismo Beach",
-        "state": "California",
-        "zip": "93449",
-        "country": "USA",
-        "lat": 35.158746,
-        "lng": -120.675417,
-        "phone": "805-773-3500",
-        "email": "cckayaks805@gmail.com",
-        "url": "http://www.centralcoastkayaks.com",
-        "enable_demo": true,
-        "categories": [
-            "Fishing"
-        ]
-    },
+    
     {
         "name": "Chipper and Coco",
         "address": "148 Oakhurst Trail",
