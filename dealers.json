@@ -1,6 +1,26 @@
 [
 
 {
+"name": "CanoeSport Outfitters",
+"address": "203 W Salem Ave",
+"address2": "",
+"city": "Indianola",
+"state": "IA",
+"zip": "50125",
+"country": "United States",
+"phone": "515-961-6117,
+"email": "nfo@canoesportoutfitters.com",
+"url": "https://www.canoesportoutfitters.com",
+"enable_demo": true,
+        "lat": 41.360298,
+        "lng": -93.562351,
+"categories": [
+"Fishing",
+"Recreation",
+"Rentals"
+
+]       
+{
 "name": "Zoar Outdoor",
 "address": "7 Main Street",
 "address2": "",
@@ -8,7 +28,7 @@
 "state": "MA",
 "zip": "01339",
 "country": "United States",
-"phone": "251-533-1830",
+"phone": "413-339-4010",
 "email": "shop@zoaroutdoor.com",
 "url": "https://shop.zoaroutdoor.com/",
 "enable_demo": true,
