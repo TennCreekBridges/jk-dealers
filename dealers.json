@@ -1,6 +1,25 @@
 [
 
 {
+"name": "Zoar Outdoor",
+"address": "7 Main Street",
+"address2": "",
+"city": "Charlemont",
+"state": "MA",
+"zip": "01339",
+"country": "United States",
+"phone": "251-533-1830",
+"email": "hammerheadkayaks@gmail.com",
+"url": "https://shop.zoaroutdoor.com/",
+"enable_demo": true,
+        "lat": 42.627724,
+        "lng": -72.883775,
+"categories": [
+"Whitewater"
+
+]
+}, 
+{
 "name": "Hammerhead Kayaks",
 "address": "6670 Theodore Dawes Rd",
 "address2": "",
