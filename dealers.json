@@ -1715,28 +1715,7 @@
             "Coolers"
         ]
     },
-    {
-        "name": "Tulsa Kayak",
-        "address": "411 South 1st Street",
-        "address2": "",
-        "city": "Jenks",
-        "state": "Oklahoma",
-        "zip": "74037",
-        "country": "USA",
-        "lat": 36.019402,
-        "lng": -95.968429,
-        "phone": "918-298-4577",
-        "email": "dave@okckayak.com",
-        "url": "http://www.okckayak.com",
-        "enable_demo": true,
-        "categories": [
-            "Blue Sky Boatworks",
-            "Fishing",
-            "Flex Drive (FD)",
-            "Recreation",
-            "Whitewater"
-        ]
-    },
+    
     {
         "name": "Tumalo Creek Kayak & Canoe",
         "address": "805 SW Industrial Way, Suite 6",
@@ -2083,28 +2062,7 @@
             "Recreation"
         ]
     },
-    {
-        "name": "OKC Kayak",
-        "address": "220 N. Western Avenue",
-        "address2": "",
-        "city": "Oklahoma City",
-        "state": "Oklahoma",
-        "zip": "73106",
-        "country": "USA",
-        "lat": 35.469541,
-        "lng": -97.529928,
-        "phone": "405-235-2925",
-        "email": "dave@okckayak.com",
-        "url": "http://www.okckayak.com",
-        "enable_demo": true,
-        "categories": [
-            "Blue Sky Boatworks",
-            "Fishing",
-            "Flex Drive (FD)",
-            "Recreation",
-            "Whitewater"
-        ]
-    },
+
     {
         "name": "Outdoor Experience",
         "address": "124 East Broad Street",
