@@ -1676,28 +1676,6 @@
         ]
     },
     {
-        "name": "The Woodsman",
-        "address": "5609 Rogers Ave, Suite D",
-        "address2": "",
-        "city": "Fort Smith",
-        "state": "Arkansas",
-        "zip": "72903",
-        "country": "USA",
-        "lat": 35.366775,
-        "lng": -94.37512,
-        "phone": "479-452-3559",
-        "email": "woodsmancompany@gmail.com",
-        "url": "https://www.thewoodsmancompany.com/product-category/kayaking/kayaking-kayaks/?filtering=1&filter_product_brand=323",
-        "enable_demo": true,
-        "categories": [
-            "Blue Sky Boatworks",
-            "Coolers",
-            "Fishing",
-            "Flex Drive (FD)",
-            "Recreation"
-        ]
-    },
-    {
         "name": "Tie Specialties LLC",
         "address": "2822 W Interstate 20",
         "address2": "",
