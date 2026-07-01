@@ -2593,24 +2593,6 @@
         ]
     },
     {
-        "name": "Garland Animal Wellness",
-        "address": "6997 Highwater Cir",
-        "address2": "",
-        "city": "Edmond",
-        "state": "Oklahoma",
-        "zip": "73034",
-        "country": "USA",
-        "lat": 35.726175,
-        "lng": -97.435009,
-        "phone": "405-285-5430",
-        "email": "",
-        "url": "http://www.garlandanimalwellness",
-        "enable_demo": false,
-        "categories": [
-            "Kennels"
-        ]
-    },
-    {
         "name": "Delaware Paddlesports",
         "address": "17296 Coastal Hwy",
         "address2": "",
